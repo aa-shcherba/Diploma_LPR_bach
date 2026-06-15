@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  11 JUN 2026 22:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  15 JUN 2026 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -958,70 +958,64 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
 [3]
 
 [4]
-Overfull \hbox (3.85782pt too wide) in paragraph at lines 181--182
-[][]\T2A/cmr/m/up/12 Определить ППЭ, связь со уровнями энергии, молекулярные ор
-битали. Оправдать
- []
-
-
-Overfull \hbox (8.21288pt too wide) in paragraph at lines 183--184
+Overfull \hbox (8.21288pt too wide) in paragraph at lines 181--182
 \T2A/cmr/m/up/12 собственной к фиксированному гамильтониану системы, определяем
 ой в стационарном
  []
 
 
-Overfull \hbox (0.3338pt too wide) in paragraph at lines 183--184
+Overfull \hbox (0.3338pt too wide) in paragraph at lines 181--182
 \T2A/cmr/m/up/12 уравнении Шредингера []2.1[]. Этот гамильтониан можно разбить 
 набор энергетических
  []
 
 
-Overfull \hbox (4.46045pt too wide) in paragraph at lines 183--184
+Overfull \hbox (4.46045pt too wide) in paragraph at lines 181--182
 \T2A/cmr/m/up/12 операторов, отвечающих отдельным элементам движения и взаимоде
 йствия в системе.
  []
 
 
-Overfull \hbox (2.29166pt too wide) in paragraph at lines 192--193
+Overfull \hbox (2.29166pt too wide) in paragraph at lines 190--191
 \T2A/cmr/m/up/12 определение волновой функции становится невозможным. Альтернат
 ивным способом
  []
 
 
-Overfull \hbox (14.57599pt too wide) in paragraph at lines 192--193
+Overfull \hbox (14.57599pt too wide) in paragraph at lines 190--191
 \T2A/cmr/m/up/12 расчета являются численные методы, основанные на нескольких ба
 зовых приближениях
  []
 
 
-Overfull \hbox (15.22853pt too wide) in paragraph at lines 192--193
+Overfull \hbox (15.22853pt too wide) in paragraph at lines 190--191
 \T2A/cmr/m/up/12 и позволяющие получать волновую функцию с точностью, достаточн
 ой для корректного
  []
 
 
-LaTeX Warning: Citation `born-opper' on page 5 undefined on input line 194.
+LaTeX Warning: Citation `born-opper' on page 5 undefined on input line 192.
 
 
-Overfull \hbox (25.67882pt too wide) in paragraph at lines 194--195
+Overfull \hbox (25.67882pt too wide) in paragraph at lines 192--193
 []\T2A/cmr/m/up/12 Первым является приближение Борна-Оппенгеймера [[]], заключа
 ющиеся в разделении
  []
 
 
-Overfull \hbox (0.70778pt too wide) in paragraph at lines 194--195
+Overfull \hbox (0.70778pt too wide) in paragraph at lines 192--193
 \T2A/cmr/m/up/12 движущуюся в пространстве конструкцию, можно сделать предполож
 ение о схожести
  []
 
 
-Overfull \hbox (11.75546pt too wide) in paragraph at lines 194--195
+Overfull \hbox (11.75546pt too wide) in paragraph at lines 192--193
 \T2A/cmr/m/up/12 порядков импульсов между электронами и ядрами. В то же время и
 х массы отличаются
  []
 
 
-Overfull \hbox (19.66696pt too wide) in paragraph at lines 194--195
+Overfull \hbox (19.66696pt too wide) in paragraph at lines 192--193
 \T2A/cmr/m/up/12 называемого электронным. Здесь набор координат атомов $[]$ ста
 новится фиксированным
  []
@@ -1029,127 +1023,127 @@ Overfull \hbox (19.66696pt too wide) in paragraph at lines 194--195
 
 
 [5]
-Overfull \hbox (8.34106pt too wide) in paragraph at lines 203--204
+Overfull \hbox (8.34106pt too wide) in paragraph at lines 201--202
 \OML/cmm/m/it/12  []$ \T2A/cmr/m/up/12 (далее для краткости называемой электрон
 ной). Связь с полной волновой функцией
  []
 
 
-Overfull \hbox (0.88695pt too wide) in paragraph at lines 203--204
+Overfull \hbox (0.88695pt too wide) in paragraph at lines 201--202
 \T2A/cmr/m/up/12 базиса []2.3[], где коэффициенты линейного разложения $\OML/cm
 m/m/it/12 ^^_[]\OT1/cmr/m/n/12 ([])$ \T2A/cmr/m/up/12 получаются из уравнения
  []
 
 
-Overfull \hbox (21.58945pt too wide) in paragraph at lines 213--214
+Overfull \hbox (21.58945pt too wide) in paragraph at lines 211--212
 []\T2A/cmr/m/up/12 Возвращаясь к электронному уравнению Шредингера, при раскрыт
 ии энергетических
  []
 
 
-Overfull \hbox (4.4148pt too wide) in paragraph at lines 213--214
+Overfull \hbox (4.4148pt too wide) in paragraph at lines 211--212
 \T2A/cmr/m/up/12 возможно методом рядов Фурье. Выбор базиса для разложения элек
 тронной волновой
  []
 
 
-Overfull \hbox (23.43651pt too wide) in paragraph at lines 215--216
+Overfull \hbox (23.43651pt too wide) in paragraph at lines 213--214
 []\T2A/cmr/m/up/12 В начале вводится набор функций молекулярных спин-орбиталей 
 (МО) $\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 ^^^[]\OT1/cmr/m/n/12 ([]\OML/cmm/m/it/
 12 ; ^^[[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 g[]$\T2A/cmr/m/up/12 ,
  []
 
 
-Overfull \hbox (10.93887pt too wide) in paragraph at lines 215--216
+Overfull \hbox (10.93887pt too wide) in paragraph at lines 213--214
 \T2A/cmr/m/up/12 электроном. Для гибкости их определяют через линейные комбинац
 ии фиксированного
  []
 
 
-Overfull \hbox (4.68263pt too wide) in paragraph at lines 215--216
+Overfull \hbox (4.68263pt too wide) in paragraph at lines 213--214
 \T2A/cmr/m/up/12 набора атомных орбиталей $\OML/cmm/m/it/12 ^^_[]$ \T2A/cmr/m/u
 p/12 с варьируемыми коэффициентами $\OML/cmm/m/it/12 c[]$ \T2A/cmr/m/up/12 (зде
 сь $\OML/cmm/m/it/12 ^^_[]$ \T2A/cmr/m/up/12 обычно
  []
 
 
-Overfull \hbox (14.80869pt too wide) in paragraph at lines 215--216
+Overfull \hbox (14.80869pt too wide) in paragraph at lines 213--214
 \T2A/cmr/m/up/12 задается комбинацией гауссиан). Выбрав из $\OML/cmm/m/it/12 M$
  \T2A/cmr/m/up/12 спин-орбиталей $\OML/cmm/m/it/12 N$ \T2A/cmr/m/up/12 занятых 
 электронами,
  []
 
 
-Overfull \hbox (50.02408pt too wide) in paragraph at lines 215--216
+Overfull \hbox (50.02408pt too wide) in paragraph at lines 213--214
 \OMS/cmsy/m/n/12 f\OT1/cmr/m/n/12 ^^H[]\OMS/cmsy/m/n/12 g$\T2A/cmr/m/up/12 . Та
 к как здесь $\OT1/cmr/m/n/12 ^^H[]$ \T2A/cmr/m/up/12 представляет собой некотор
 ую конфигурацию системы (фиксированное
  []
 
 
-
-[6]
-Overfull \hbox (6.65616pt too wide) in paragraph at lines 225--227
+Overfull \hbox (6.65616pt too wide) in paragraph at lines 219--221
 []\T2A/cmr/m/up/12 Таким образом нахождение электронной волновой функции $\OML/
 cmm/m/it/12  []$ \T2A/cmr/m/up/12 в методах квантовой
  []
 
 
-Overfull \hbox (35.90146pt too wide) in paragraph at lines 225--227
+Overfull \hbox (35.90146pt too wide) in paragraph at lines 219--221
 \T2A/cmr/m/up/12 минимизации энергии системы. Для дальнейшего анализа полное пр
 остранство полученных
  []
 
 
-Overfull \hbox (2.99886pt too wide) in paragraph at lines 227--228
+
+[6]
+Overfull \hbox (2.99886pt too wide) in paragraph at lines 221--222
 []\T2A/cmr/m/up/12 остовные (core) - орбитали внутренних электронных оболочек, 
 которые остаются
  []
 
 
-Overfull \hbox (14.90909pt too wide) in paragraph at lines 229--230
+Overfull \hbox (14.90909pt too wide) in paragraph at lines 223--224
 \T2A/cmr/m/up/12 рамках многоконфигурационного разложения, так и при изменении 
 межъядерного
  []
 
 
-Overfull \hbox (3.71397pt too wide) in paragraph at lines 232--233
+Overfull \hbox (3.71397pt too wide) in paragraph at lines 226--227
 []\T2A/cmr/m/up/12 Основным отличием методов квантовой химии является размернос
 ть пространства
  []
 
 
-Overfull \hbox (35.67848pt too wide) in paragraph at lines 232--233
+Overfull \hbox (35.67848pt too wide) in paragraph at lines 226--227
 \T2A/cmr/m/up/12 волновая функция $\OML/cmm/m/it/12  []$\T2A/cmr/m/up/12 . Приб
 лижения, используемые различными методами для уменьшения
  []
 
 
-Overfull \hbox (6.3202pt too wide) in paragraph at lines 232--233
+Overfull \hbox (6.3202pt too wide) in paragraph at lines 226--227
 \T2A/cmr/m/up/12 самосогласованного поля в полном активном пространстве и много
 конфигурационного
  []
 
 
-Overfull \hbox (48.40338pt too wide) in paragraph at lines 232--233
+Overfull \hbox (48.40338pt too wide) in paragraph at lines 226--227
 \T2A/cmr/m/up/12 взаимодействия, являющихся более вычислительно затратными. Так
 ое решение продиктовано
  []
 
 
-Overfull \hbox (40.90904pt too wide) in paragraph at lines 232--233
+Overfull \hbox (40.90904pt too wide) in paragraph at lines 226--227
 \T2A/cmr/m/up/12 сложностью орбитальной структуры исследуемых молекул и сильным
  влиянием электронной
  []
 
 
-Overfull \hbox (48.46312pt too wide) in paragraph at lines 234--234
+Overfull \hbox (48.46312pt too wide) in paragraph at lines 228--228
 []\T2A/cmr/bx/n/14.4 Метод самосогласованного поля в полном активном пространст
 ве 
  []
 
 
-Overfull \hbox (39.11441pt too wide) in paragraph at lines 239--240
+Overfull \hbox (39.11441pt too wide) in paragraph at lines 231--232
 \T2A/cmr/m/up/12 в правильном определении энергии состояния с несколькими ведущ
 ими конфигурационными
  []
@@ -1157,61 +1151,61 @@ Overfull \hbox (39.11441pt too wide) in paragraph at lines 239--240
 
 
 [7]
-Overfull \hbox (30.30411pt too wide) in paragraph at lines 241--242
+Overfull \hbox (30.30411pt too wide) in paragraph at lines 233--234
 \T2A/cmr/m/up/12 позволяет одновременно избежать проклятия размерности (экспоне
 нциального увеличения
  []
 
 
-Overfull \hbox (5.50456pt too wide) in paragraph at lines 243--244
+Overfull \hbox (5.50456pt too wide) in paragraph at lines 235--236
 []\T2A/cmr/m/up/12 Помимо учета статической корреляции таким важным результатом
  также является
  []
 
 
-Overfull \hbox (29.58606pt too wide) in paragraph at lines 243--244
+Overfull \hbox (29.58606pt too wide) in paragraph at lines 235--236
 \T2A/cmr/m/up/12 возможность оптимизации энергии для нескольких состояний систе
 мы, ввиду возможности
  []
 
 
-Overfull \hbox (16.02673pt too wide) in paragraph at lines 243--244
+Overfull \hbox (16.02673pt too wide) in paragraph at lines 235--236
 \T2A/cmr/m/up/12 одним преимуществом является подбор молекулярных орбиталей $\O
 ML/cmm/m/it/12 c[]$ \T2A/cmr/m/up/12 с учетом нескольких
  []
 
 
-Overfull \hbox (3.47177pt too wide) in paragraph at lines 245--246
+Overfull \hbox (3.47177pt too wide) in paragraph at lines 237--238
 \T2A/cmr/m/up/12 молекулярных орбиталей обозначается как случай CAS(9,7), кажда
 я MO маркируется
  []
 
 
-Overfull \hbox (16.27278pt too wide) in paragraph at lines 245--246
+Overfull \hbox (16.27278pt too wide) in paragraph at lines 237--238
 \T2A/cmr/m/up/12 согласно атомной орбитали с наибольшим процентным вкладом на п
 ределе диссоциации.
  []
 
 
-Overfull \hbox (3.70447pt too wide) in paragraph at lines 245--246
+Overfull \hbox (3.70447pt too wide) in paragraph at lines 237--238
 \T2A/cmr/m/up/12 Отдельно для ArC в пространство активных орбиталей была дополн
 ительно включена
  []
 
 
-Overfull \hbox (9.09412pt too wide) in paragraph at lines 247--248
+Overfull \hbox (9.09412pt too wide) in paragraph at lines 239--240
 \T2A/cmr/m/up/12 Эта проблема проявляется через появление вкладов более и менее
  диффузных атомных
  []
 
 
-Overfull \hbox (12.45494pt too wide) in paragraph at lines 247--248
+Overfull \hbox (12.45494pt too wide) in paragraph at lines 239--240
 \T2A/cmr/m/up/12 одновременно описывать две различные физические ситуации, допо
 лнительно усиливая
  []
 
 
-Overfull \hbox (12.40723pt too wide) in paragraph at lines 247--248
+Overfull \hbox (12.40723pt too wide) in paragraph at lines 239--240
 \T2A/cmr/m/up/12 проблему "компромиссных орбиталей". Для иллюстрации этой пробл
 емы ниже показан
  []
@@ -1219,232 +1213,231 @@ Overfull \hbox (12.40723pt too wide) in paragraph at lines 247--248
 
 
 [8]
-Overfull \hbox (0.93628pt too wide) in paragraph at lines 254--255
+Overfull \hbox (0.93628pt too wide) in paragraph at lines 246--247
 []\T2A/cmr/m/up/12 Для решения данной проблемы применялась процедура усреднения
  по состояниям
  []
 
 
-Overfull \hbox (50.41931pt too wide) in paragraph at lines 254--255
+Overfull \hbox (50.41931pt too wide) in paragraph at lines 246--247
 \T2A/cmr/m/up/12 (state av-er-aged CASSCF, SA-CASSCF) со специальной схемой зад
 ания весовых коэффициентов,
  []
 
 
-Overfull \hbox (9.96411pt too wide) in paragraph at lines 254--255
+Overfull \hbox (9.96411pt too wide) in paragraph at lines 246--247
 \T2A/cmr/m/up/12 обеспечивающей равноправный вклад каждого асимптотического пре
 дела. Суммарные
  []
 
 
-Overfull \hbox (11.91779pt too wide) in paragraph at lines 254--255
+Overfull \hbox (11.91779pt too wide) in paragraph at lines 246--247
 \T2A/cmr/m/up/12 предела распределялись равномерно. Корректность использованных
  весов проверялась
  []
 
 
-Overfull \hbox (8.43712pt too wide) in paragraph at lines 254--255
+Overfull \hbox (8.43712pt too wide) in paragraph at lines 246--247
 \T2A/cmr/m/up/12 путем сопоставления рассчитанных чисел заселенности молекулярн
 ых орбиталей (МО)
  []
 
 
-Overfull \hbox (2.50244pt too wide) in paragraph at lines 254--255
+Overfull \hbox (2.50244pt too wide) in paragraph at lines 246--247
 \T2A/cmr/m/up/12 с значениями заселенностей, полученных путем усреднения конфиг
 ураций различных
  []
 
 
-Overfull \hbox (7.01343pt too wide) in paragraph at lines 256--257
+Overfull \hbox (7.01343pt too wide) in paragraph at lines 248--249
 \T2A/cmr/m/up/12 все состояния. Вычисленный методом SA-CASSCF набор конфигураци
 онных функций
  []
 
 
-Overfull \hbox (41.65973pt too wide) in paragraph at lines 256--257
+Overfull \hbox (41.65973pt too wide) in paragraph at lines 248--249
 \T2A/cmr/m/up/12 состояний также является хорошим приближением, но не учитывает
  более высокоэнергичные
  []
 
 
-Overfull \hbox (43.3301pt too wide) in paragraph at lines 256--257
+Overfull \hbox (43.3301pt too wide) in paragraph at lines 248--249
 \T2A/cmr/m/up/12 SA-CASSCF пространтвом молекулярных орбиталей проводится расче
 т методом MRACPF2a. 
  []
 
 
-Overfull \hbox (26.55122pt too wide) in paragraph at lines 259--259
+Overfull \hbox (26.55122pt too wide) in paragraph at lines 251--251
 []\T2A/cmr/bx/n/14.4 Многорференсный метод конфигурационного взаимодействия 
  []
 
 
-Overfull \hbox (8.6087pt too wide) in paragraph at lines 264--265
+Overfull \hbox (8.6087pt too wide) in paragraph at lines 254--255
 []\T2A/cmr/m/up/12 Следующий метод позволяет учесть влияние динамической коррел
 яции на точность
  []
 
 
-Overfull \hbox (33.8935pt too wide) in paragraph at lines 264--265
+Overfull \hbox (33.8935pt too wide) in paragraph at lines 254--255
 \T2A/cmr/m/up/12 которые с одной стороны позволяют учесть столкновения электрон
 ов через их возбуждение,
  []
 
 
-Overfull \hbox (40.91599pt too wide) in paragraph at lines 264--265
+Overfull \hbox (40.91599pt too wide) in paragraph at lines 254--255
 \T2A/cmr/m/up/12 а с другой расширяют пространство $\OMS/cmsy/m/n/12 f\OT1/cmr/
 m/n/12 ^^H[]\OMS/cmsy/m/n/12 g$ \T2A/cmr/m/up/12 в достаточной мере для правиль
 ной аппроксимации
  []
 
 
-
-[9]
-Overfull \hbox (3.8729pt too wide) in paragraph at lines 266--267
+Overfull \hbox (3.8729pt too wide) in paragraph at lines 256--257
 \T2A/cmr/m/up/12 возбужденных конфигурационных функций состояния влечет экспоне
 нциальный рост
  []
 
 
-Overfull \hbox (9.84445pt too wide) in paragraph at lines 266--267
+Overfull \hbox (9.84445pt too wide) in paragraph at lines 256--257
 \T2A/cmr/m/up/12 вычислительных затрат, полученная такая таким образом волновая
  функция считается
  []
 
 
-Overfull \hbox (62.05396pt too wide) in paragraph at lines 266--267
+Overfull \hbox (62.05396pt too wide) in paragraph at lines 256--257
 \T2A/cmr/m/up/12 точной (над отдельно выделенным пространством молекулярных орб
 италей), а соответствующий
  []
 
 
-Overfull \hbox (2.77773pt too wide) in paragraph at lines 266--267
+Overfull \hbox (2.77773pt too wide) in paragraph at lines 256--257
 \T2A/cmr/m/up/12 метод FullCI является эталонным. Однако для сохранения разумно
 го времени расчета
  []
 
 
-Overfull \hbox (10.90332pt too wide) in paragraph at lines 266--267
+Overfull \hbox (10.90332pt too wide) in paragraph at lines 256--257
 \T2A/cmr/m/up/12 возбуждениями ограниченного набора $\OMS/cmsy/m/n/12 f\OT1/cmr
 /m/n/12 ^^H[]\OMS/cmsy/m/n/12 g[]$\T2A/cmr/m/up/12 , определяемыми в CASSCF. Уп
 рощенная
  []
 
 
-Overfull \hbox (41.56169pt too wide) in paragraph at lines 266--267
+Overfull \hbox (41.56169pt too wide) in paragraph at lines 256--257
 \T2A/cmr/m/up/12 подобным образом схема является вариантом многореференсного ме
 тода конфигурационного
  []
 
 
-Overfull \hbox (1.25076pt too wide) in paragraph at lines 268--269
-[]\T2A/cmr/m/up/12 В данной работе используется дополненный метод MRCI(SD), мод
-ифицированный
+
+[9]
+Overfull \hbox (1.51053pt too wide) in paragraph at lines 258--259
+[]\T2A/cmr/m/up/12 В данной работе используется дополненный к MR-CISD метод, мо
+дифицированный
  []
 
 
-Overfull \hbox (33.12785pt too wide) in paragraph at lines 268--269
+Overfull \hbox (33.12785pt too wide) in paragraph at lines 258--259
 \T2A/cmr/m/up/12 специально для соблюдения размерной экстенсивности. Проблема с
 остоит в несоответствии
  []
 
 
-Overfull \hbox (56.39447pt too wide) in paragraph at lines 268--269
+Overfull \hbox (56.39447pt too wide) in paragraph at lines 258--259
 \T2A/cmr/m/up/12 частей, а причиной служит отсутствие учета более высоких возбу
 ждений. В модифицированной
  []
 
 
-Overfull \hbox (13.98862pt too wide) in paragraph at lines 268--269
+Overfull \hbox (13.98862pt too wide) in paragraph at lines 258--259
 \T2A/cmr/m/up/12 версии для включения данного эффекта вводится измененная норми
 ровка функционала
  []
 
 
-Overfull \hbox (37.43507pt too wide) in paragraph at lines 268--269
+Overfull \hbox (37.43507pt too wide) in paragraph at lines 258--259
 \T2A/cmr/m/up/12 fects). Полученная схема называется мультирефернсым методом ус
 редненного функционала
  []
 
 
-
-[10]
-
-LaTeX Warning: Citation `opi' on page 11 undefined on input line 282.
+LaTeX Warning: Citation `opi' on page 10 undefined on input line 270.
 
 
-Overfull \hbox (1.9151pt too wide) in paragraph at lines 282--283
+Overfull \hbox (1.9151pt too wide) in paragraph at lines 270--271
 []\T2A/cmr/m/up/12 Практическая реализация вышеописанных квантово-химических ме
 тодов и расчет
  []
 
 
-Overfull \hbox (29.48824pt too wide) in paragraph at lines 282--283
+Overfull \hbox (29.48824pt too wide) in paragraph at lines 270--271
 \T2A/cmr/m/up/12 потенциальных кривых исследуемой системы выполнялись с использ
 ованием современного
  []
 
 
-Overfull \hbox (17.79129pt too wide) in paragraph at lines 282--283
+Overfull \hbox (17.79129pt too wide) in paragraph at lines 270--271
 \T2A/cmr/m/up/12 программного комплекса Orca 6.1.0-f.0 [[]]. Данный пакет оптим
 изирован для проведения
  []
 
 
-Overfull \hbox (16.95123pt too wide) in paragraph at lines 282--283
+Overfull \hbox (16.95123pt too wide) in paragraph at lines 270--271
 \T2A/cmr/m/up/12 высокоуровневых многоконфигурационных расчетов SA-CASSCF и MRA
 CPF2a. Вместе
  []
 
 
-Overfull \hbox (35.19861pt too wide) in paragraph at lines 282--283
+Overfull \hbox (35.19861pt too wide) in paragraph at lines 270--271
 \T2A/cmr/m/up/12 массивов данных квантово-химического вывода) был разработан со
 бственный программный
  []
 
 
-Overfull \hbox (35.53748pt too wide) in paragraph at lines 284--285
+
+[10]
+Overfull \hbox (35.53748pt too wide) in paragraph at lines 272--273
 []\T2A/cmr/m/up/12 Реализации методов CASSCF и MRACPF2a, доступные в пакете Orc
 a [[]], использовались
  []
 
 
-Overfull \hbox (3.7098pt too wide) in paragraph at lines 284--285
+Overfull \hbox (3.7098pt too wide) in paragraph at lines 272--273
 \T2A/cmr/m/up/12 совместно с расширенными корреляционно-согласованными базисным
 и наборами aug-
  []
 
 
-Overfull \hbox (30.70828pt too wide) in paragraph at lines 284--285
+Overfull \hbox (30.70828pt too wide) in paragraph at lines 272--273
 \T2A/cmr/m/up/12 базисного набора aug-cc-pwCV$\OMS/cmsy/m/n/12 1$\T2A/cmr/m/up/
 12 Z (CBS). Для использования пространственной симметрии
  []
 
 
-Overfull \hbox (2.28496pt too wide) in paragraph at lines 286--287
+Overfull \hbox (2.28496pt too wide) in paragraph at lines 274--275
 \T2A/cmr/m/up/12 разделенных по неприводимым представлениям, выглядит следующим
  образом; здесь
  []
 
 
-Overfull \hbox (2.72469pt too wide) in paragraph at lines 293--294
+Overfull \hbox (2.72469pt too wide) in paragraph at lines 281--282
 []\T2A/cmr/m/up/12 Аналогичные вычисления были проделаны для нейтральной молеку
 лы ArC. Ввиду
  []
 
 
-Overfull \hbox (19.69897pt too wide) in paragraph at lines 293--294
+Overfull \hbox (19.69897pt too wide) in paragraph at lines 281--282
 \T2A/cmr/m/up/12 крайне слабой связанности этого соединения включение высоко во
 збужденных состояний
  []
 
 
-Overfull \hbox (21.16742pt too wide) in paragraph at lines 293--294
+Overfull \hbox (21.16742pt too wide) in paragraph at lines 281--282
 \T2A/cmr/m/up/12 является необходимым условием правильного определения термодин
 амических функций.
  []
 
 
-Overfull \hbox (38.5313pt too wide) in paragraph at lines 293--294
+Overfull \hbox (38.5313pt too wide) in paragraph at lines 281--282
 \T2A/cmr/m/up/12 В рамках SA-CASSCF/MRACPF2a расчета на сетке межъядерных расст
 ояний, включающей
  []
@@ -1452,49 +1445,55 @@ Overfull \hbox (38.5313pt too wide) in paragraph at lines 293--294
 
 
 [11]
-Overfull \hbox (61.79283pt too wide) in paragraph at lines 304--305
+Overfull \hbox (61.79283pt too wide) in paragraph at lines 292--293
 []\T2A/cmr/m/up/12 Порядковый номер электронного состояния конкретной мультипле
 тности и пространственной
  []
 
 
-Overfull \hbox (21.75475pt too wide) in paragraph at lines 304--305
+Overfull \hbox (21.75475pt too wide) in paragraph at lines 292--293
 \T2A/cmr/m/up/12 симметрии (терма) будем обозначать цифрой в скобках, указываем
 ой перед его символом.
  []
 
 
-Overfull \hbox (19.96008pt too wide) in paragraph at lines 304--305
+Overfull \hbox (19.96008pt too wide) in paragraph at lines 292--293
 \T2A/cmr/m/up/12 критически важные для последующего расчета термодинамических ф
 ункций, включение
  []
 
 
-Overfull \hbox (24.75677pt too wide) in paragraph at lines 304--305
+Overfull \hbox (24.75677pt too wide) in paragraph at lines 292--293
 \T2A/cmr/m/up/12 предотвратить искусственное нарушение пространственной симметр
 ии волновой функции
  []
 
 
-Overfull \hbox (17.95454pt too wide) in paragraph at lines 306--307
+Overfull \hbox (6.32034pt too wide) in paragraph at lines 292--293
+\T2A/cmr/m/up/12 и обеспечить корректные (физически оправданные) числа заселенн
+ости молекулярных
+ []
+
+
+Overfull \hbox (17.95454pt too wide) in paragraph at lines 294--295
 \T2A/cmr/m/up/12 энергии в направлении уменьшения межъядерного расстояния. Моле
 кулярные орбитали
  []
 
 
-Overfull \hbox (33.73032pt too wide) in paragraph at lines 306--307
+Overfull \hbox (33.73032pt too wide) in paragraph at lines 294--295
 \T2A/cmr/m/up/12 из ранее рассчитанной точки повторно использовались в качестве
  начального приближения.
  []
 
 
-Overfull \hbox (21.81999pt too wide) in paragraph at lines 306--307
+Overfull \hbox (21.81999pt too wide) in paragraph at lines 294--295
 \T2A/cmr/m/up/12 активного пространства и упрощает использование данных неприво
 димых представлений
  []
 
 
-Overfull \hbox (48.56435pt too wide) in paragraph at lines 306--307
+Overfull \hbox (48.56435pt too wide) in paragraph at lines 294--295
 \T2A/cmr/m/up/12 для построения пространства активных орбиталей. Результаты, по
 лученные с использованием
  []
@@ -1503,65 +1502,65 @@ Overfull \hbox (48.56435pt too wide) in paragraph at lines 306--307
 
 [12]
 
-LaTeX Warning: Citation `numerov' on page 13 undefined on input line 314.
+LaTeX Warning: Citation `numerov' on page 13 undefined on input line 302.
 
 
-Overfull \hbox (1.41473pt too wide) in paragraph at lines 314--315
+Overfull \hbox (1.41473pt too wide) in paragraph at lines 302--303
 \T2A/cmr/m/up/12 статистической физики с включением стат. суммы, получение кото
 рой подразумевает
  []
 
 
-Overfull \hbox (39.11443pt too wide) in paragraph at lines 314--315
+Overfull \hbox (39.11443pt too wide) in paragraph at lines 302--303
 \T2A/cmr/m/up/12 механическом уровне потенциальных кривых к полному набору вращ
 ательно-колебательных
  []
 
 
-Overfull \hbox (11.67455pt too wide) in paragraph at lines 314--315
+Overfull \hbox (11.67455pt too wide) in paragraph at lines 302--303
 \T2A/cmr/m/up/12 итерационным методом Нумерова [[]]. Волновая функция $\OML/cmm
 /m/it/12  $ \T2A/cmr/m/up/12 раскладывается на угловую
  []
 
 
-Overfull \hbox (36.43456pt too wide) in paragraph at lines 314--315
+Overfull \hbox (36.43456pt too wide) in paragraph at lines 302--303
 \T2A/cmr/m/up/12 части и радиальную, последняя находиться из решения радиальног
 о уравнения Шредингера
  []
 
 
-Overfull \hbox (13.64417pt too wide) in paragraph at lines 314--315
+Overfull \hbox (13.64417pt too wide) in paragraph at lines 302--303
 []\T2A/cmr/m/up/12 3.6[], включающего радиальную зависимость ППЭ $\OML/cmm/m/it
 /12 U\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 )$\T2A/cmr/m/up/12 . Вы
 сокоэффективным подходом
  []
 
 
-Overfull \hbox (30.63042pt too wide) in paragraph at lines 323--324
+Overfull \hbox (30.63042pt too wide) in paragraph at lines 311--312
 \T2A/cmr/m/up/12 численное интегрирование уравнения наружу от малых и внутрь от
  больших межъядерных
  []
 
 
-Overfull \hbox (11.96547pt too wide) in paragraph at lines 336--337
+Overfull \hbox (11.96547pt too wide) in paragraph at lines 324--325
 \T2A/cmr/m/up/12 вращательно-колебательных уровней энергии, соответствующий дан
 ной потенциальной
  []
 
 
-Overfull \hbox (8.64502pt too wide) in paragraph at lines 336--337
+Overfull \hbox (8.64502pt too wide) in paragraph at lines 324--325
 \T2A/cmr/m/up/12 кривой. Проводя данную процедуру независимо для всех полученны
 х ППЭ соединений
  []
 
 
-Overfull \hbox (37.04434pt too wide) in paragraph at lines 336--337
+Overfull \hbox (37.04434pt too wide) in paragraph at lines 324--325
 \T2A/cmr/m/up/12 молекул. В дальнейшем ввиду развития вычислительных технологий
  расчет статистической
  []
 
 
-Overfull \hbox (12.03078pt too wide) in paragraph at lines 336--337
+Overfull \hbox (12.03078pt too wide) in paragraph at lines 324--325
 \T2A/cmr/m/up/12 суммы прямым суммированием по полученному набору уровней не яв
 ляется проблемой. 
  []
@@ -1569,326 +1568,488 @@ Overfull \hbox (12.03078pt too wide) in paragraph at lines 336--337
 
 
 [13]
-Overfull \hbox (35.85136pt too wide) in paragraph at lines 347--349
+Overfull \hbox (35.85136pt too wide) in paragraph at lines 330--332
 \T2A/cmr/m/up/12 распределено в объеме и выполняются условия локального термоди
 намического равновесия.
  []
 
 
-Overfull \hbox (17.07207pt too wide) in paragraph at lines 347--349
+Overfull \hbox (17.07207pt too wide) in paragraph at lines 330--332
 \T2A/cmr/m/up/12 Далее будет обсуждаться метод расчета статистической суммы $\O
 ML/cmm/m/it/12 Q$\T2A/cmr/m/up/12 , энтропии $\OML/cmm/m/it/12 S[]$\T2A/cmr/m/u
 p/12 , прироста
  []
 
 
-LaTeX Warning: Reference `eq:funcs_trans' on page 14 undefined on input line 35
-4.
+LaTeX Warning: Reference `eq:funcs_trans' on page 14 undefined on input line 33
+7.
 
 
-Overfull \hbox (17.25179pt too wide) in paragraph at lines 354--355
+Overfull \hbox (17.25179pt too wide) in paragraph at lines 337--338
 \T2A/cmr/m/up/12 внутримолекулярным движением можно ввести такое же разделение 
 для статистической
  []
 
 
-Overfull \hbox (20.41588pt too wide) in paragraph at lines 354--355
+Overfull \hbox (20.41588pt too wide) in paragraph at lines 337--338
 \T2A/cmr/m/up/12 свойств газа []. Здесь $\OML/cmm/m/it/12 k$ \T2A/cmr/m/up/12 -
 - постоянная Больцмана, $\OML/cmm/m/it/12 R$ \T2A/cmr/m/up/12 -- универсальная 
 газовая постоянная,
  []
 
 
-
-[14]
-Overfull \hbox (12.94444pt too wide) in paragraph at lines 365--366
+Overfull \hbox (12.94444pt too wide) in paragraph at lines 348--349
 \T2A/cmr/m/up/12 набору вращательно-колебательных уровней энергии, каждый из ко
 торых определяется
  []
 
 
 
-[15]
-Overfull \hbox (29.09666pt too wide) in paragraph at lines 395--396
+[14]
+
+LaTeX Warning: Citation `malcev_diatom' on page 15 undefined on input line 358.
+
+
+
+Overfull \hbox (29.09666pt too wide) in paragraph at lines 379--380
 \T2A/cmr/m/up/12 состояний двухатомной молекулы, полученных экспериментально ил
 и методами квантовой
  []
 
 
-Overfull \hbox (5.11295pt too wide) in paragraph at lines 395--396
+Overfull \hbox (5.11295pt too wide) in paragraph at lines 379--380
 \T2A/cmr/m/up/12 химии, расчет температурных зависимостей термодинамических фун
 кций может быть
  []
 
 
-Overfull \hbox (28.34622pt too wide) in paragraph at lines 395--396
-\T2A/cmr/m/up/12 развитие вычислительных возможностей современных компьютеров п
-озволило преодолеть
- []
+
+[15]
+
+LaTeX Warning: Citation `gasthermo' on page 16 undefined on input line 381.
 
 
-LaTeX Warning: Citation `gasthermo' on page 16 undefined on input line 397.
-
-
-Overfull \hbox (7.94492pt too wide) in paragraph at lines 397--398
+Overfull \hbox (7.94492pt too wide) in paragraph at lines 381--382
 \T2A/cmr/m/up/12 веб-приложение Gas-Thermo [[]] для расчета термодинамических ф
 ункций двухатомных
  []
 
 
-Overfull \hbox (26.96497pt too wide) in paragraph at lines 397--398
+Overfull \hbox (7.39056pt too wide) in paragraph at lines 381--382
 \T2A/cmr/m/up/12 ArC$[]$ в условиях масс спектрометрии с использованием индукти
-вно связной плазмы.Далее
+вно связанной плазмы.
+ []
+
+
+Overfull \hbox (41.06808pt too wide) in paragraph at lines 381--382
+\T2A/cmr/m/up/12 Далее рассмотрим доступную в приложении реализацию озвученного
+ ранее вычислительного
+ []
+
+
+Overfull \hbox (26.2588pt too wide) in paragraph at lines 383--384
+\T2A/cmr/m/up/12 возможно благодаря веб-интерфейсу Gas-Thermo. В рамках первой 
+программы проводится
+ []
+
+
+Overfull \hbox (13.58119pt too wide) in paragraph at lines 383--384
+\T2A/cmr/m/up/12 аппроксимация имеющехся точек ППЭ EMO-потенциалом []3.14[], це
+лью которой является
+ []
+
+
+LaTeX Warning: Citation `joint_approx' on page 16 undefined on input line 394.
+
+
+Overfull \hbox (20.54921pt too wide) in paragraph at lines 394--395
+\T2A/cmr/m/up/12 описанному в работе посвященной ArF$[]$ [[]], удается добиться
+ характерной относительной
+ []
+
+
+Overfull \hbox (12.84656pt too wide) in paragraph at lines 394--395
+\T2A/cmr/m/up/12 при совмещении которых получаются непрерывные кривые температу
+рной зависимости
  []
 
 
 
 [16]
+<images/gasthermo_level.png, id=268, 941.01563pt x 450.9347pt>
+File: images/gasthermo_level.png Graphic file (type png)
+<use images/gasthermo_level.png>
+Package pdftex.def Info: images/gasthermo_level.png  used on input line 405.
+(pdftex.def)             Requested size: 455.24411pt x 218.1526pt.
+<images/gasthermo_thermo.png, id=270, 947.79094pt x 599.99156pt>
+File: images/gasthermo_thermo.png Graphic file (type png)
+<use images/gasthermo_thermo.png>
+Package pdftex.def Info: images/gasthermo_thermo.png  used on input line 411.
+(pdftex.def)             Requested size: 455.24411pt x 288.18494pt.
+
+
+[17 <./images/gasthermo_level.png>]
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <17.28> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 400.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 415.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <17.28> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 400.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 415.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 400.
+(hyperref)                removing `math shift' on input line 415.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 400.
+(hyperref)                removing `superscript' on input line 415.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 400.
+(hyperref)                removing `math shift' on input line 415.
 
 
-Overfull \hbox (0.1673pt too wide) in paragraph at lines 407--408
-\T2A/cmr/m/up/12 разделением по мультиплетности. Разность энергий 4.295 eV межд
-у двумя пределами
+Overfull \hbox (15.55476pt too wide) in paragraph at lines 420--421
+\T2A/cmr/m/up/12 глубина потенциальных ям возбужденных состояний, показанных сп
+лошными кривыми,
  []
 
 
-Overfull \hbox (0.93626pt too wide) in paragraph at lines 407--408
-\T2A/cmr/m/up/12 и значительные потенциальные ямы возбужденных состояний указыв
-ают на заметное
- []
-
-
-Overfull \hbox (5.50453pt too wide) in paragraph at lines 409--410
+Overfull \hbox (5.50453pt too wide) in paragraph at lines 422--423
 []\T2A/cmr/m/up/12 Поведение каждого состояния определяется его доминирующей ко
 нфигурационной
  []
 
 
-Overfull \hbox (9.84448pt too wide) in paragraph at lines 409--410
-\T2A/cmr/m/up/12 функцией состояния, которая коррелирует с определенной орбитал
-ьной заселенностью.
+Overfull \hbox (4.61757pt too wide) in paragraph at lines 422--423
+\T2A/cmr/m/up/12 заселенностей орбиталей $\OML/cmm/m/it/12 p[]$ \T2A/cmr/m/up/1
+2 и $\OML/cmm/m/it/12 p[]$\T2A/cmr/m/up/12 . Краткий анализ этих функций дает п
+риблизительное
  []
 
 
-Overfull \hbox (29.58624pt too wide) in paragraph at lines 411--412
-\T2A/cmr/m/up/12 отмечено в [[]], молекулярное взаимодействие можно описать как
- притяжение электронного
+Overfull \hbox (6.53781pt too wide) in paragraph at lines 422--423
+\T2A/cmr/m/up/12 состояний. Отметим, что во всех случаях орбиталь C(2s) являетс
+я дважды заселенной,
  []
 
 
-Overfull \hbox (21.1674pt too wide) in paragraph at lines 411--412
-\T2A/cmr/m/up/12 применена ко второму пределу: один отсутствующий электрон умен
-ьшает экранирование
+Overfull \hbox (6.93835pt too wide) in paragraph at lines 424--425
+[]\T2A/cmr/m/up/12 Первый предел характеризуется тремя состояниями -- $[]\OT1/c
+mr/m/n/12 ^^E[]$\T2A/cmr/m/up/12 , $[]\OT1/cmr/m/n/12 ^^E[]$ \T2A/cmr/m/up/12 и
+ $[]\OT1/cmr/m/n/12 ^^F[]$\T2A/cmr/m/up/12 . Как отмечено
  []
 
 
-Overfull \hbox (14.9114pt too wide) in paragraph at lines 411--412
-\T2A/cmr/m/up/12 заряда ядра аргона. В случаях с однократно занятой орбиталью A
-r(3p$[]$) взаимодействие
+Overfull \hbox (4.67387pt too wide) in paragraph at lines 424--425
+\T2A/cmr/m/up/12 слабее, приводя к более выраженной потенциальной яме. Аналогич
+ная интерпретация
  []
 
 
-Overfull \hbox (9.93636pt too wide) in paragraph at lines 411--412
-\T2A/cmr/m/up/12 сильным. Поэтому результирующие состояния $\OT1/cmr/m/n/12 (1)
-[]^^F[]$ \T2A/cmr/m/up/12 и $\OT1/cmr/m/n/12 (1)[]^^E$ \T2A/cmr/m/up/12 имеют н
-аиболее глубокие
+Overfull \hbox (26.6076pt too wide) in paragraph at lines 424--425
+\T2A/cmr/m/up/12 орбиталью Ar(3p$[]$) взаимодействие между зарядом ядра аргона 
+и электронной плотностью
  []
 
 
-Overfull \hbox (3.29506pt too wide) in paragraph at lines 413--414
-\T2A/cmr/m/up/12 электронов на функциях $\OML/cmm/m/it/12 p[]$\T2A/cmr/m/up/12 
+Overfull \hbox (41.91466pt too wide) in paragraph at lines 424--425
+\T2A/cmr/m/up/12 углерода является наиболее сильным. Поэтому состояния $\OT1/cm
+r/m/n/12 (1)[]^^F[]$ \T2A/cmr/m/up/12 и $\OT1/cmr/m/n/12 (1)[]^^E$ \T2A/cmr/m/u
+p/12 характеризующийся
+ []
+
+
+
+[18 <./images/gasthermo_thermo.png>]
+Overfull \hbox (7.70023pt too wide) in paragraph at lines 426--427
+\T2A/cmr/m/up/12 молекулярных орбиталях $\OML/cmm/m/it/12 p[]$\T2A/cmr/m/up/12 
 , с дважды занятой орбиталью Ar(3p$[]$) и одним электроном
  []
 
 
-Overfull \hbox (10.55305pt too wide) in paragraph at lines 413--414
-\T2A/cmr/m/up/12 мелкую яму приблизительно 800--1000 cm$[]$. Хотя окончательное
- физическое отнесение
+Overfull \hbox (57.6053pt too wide) in paragraph at lines 426--427
+\T2A/cmr/m/up/12 в дополнительной панели рисунка []3[]. Совокупное влияние этих
+ состояний на термодинамические
  []
 
 
-Overfull \hbox (33.87439pt too wide) in paragraph at lines 413--414
-\T2A/cmr/m/up/12 состояний превращаются в отдельные состояния $\OT1/cmr/m/n/12 
-(1)[]^^A$ \T2A/cmr/m/up/12 и $\OT1/cmr/m/n/12 (2)[]^^F[]$ \T2A/cmr/m/up/12 и об
-разуют дополнительные
+Overfull \hbox (28.95537pt too wide) in paragraph at lines 426--427
+\T2A/cmr/m/up/12 и $\OT1/cmr/m/n/12 (2)[]^^F[]$ \T2A/cmr/m/up/12 образуют допол
+нительные ямы вследствие избегаемых пересечений с состояниями
  []
 
 
+Overfull \hbox (18.43788pt too wide) in paragraph at lines 428--429
+\T2A/cmr/m/up/12 (заселенности молекулярных орбиталей) состояний для $\OML/cmm/
+m/it/12 R \OT1/cmr/m/n/12 = 3\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ []\T2A/cmr/m/
+up/12 A. В случае соответствия
+ []
 
-[17]
-<images/states_all.png, id=263, 794.97pt x 578.16pt>
+
+Overfull \hbox (5.50446pt too wide) in paragraph at lines 428--429
+\T2A/cmr/m/up/12 нескольких конфигураций одному состоянию подразумевается их ра
+внозначный вклад
+ []
+
+
+Overfull \hbox (12.1286pt too wide) in paragraph at lines 428--429
+\T2A/cmr/m/up/12 в волновую функцию, что также указывает на присутствующее влия
+ние статистической
+ []
+
+<images/states_all.png, id=291, 794.97pt x 578.16pt>
 File: images/states_all.png Graphic file (type png)
 <use images/states_all.png>
-Package pdftex.def Info: images/states_all.png  used on input line 417.
+Package pdftex.def Info: images/states_all.png  used on input line 432.
 (pdftex.def)             Requested size: 455.24411pt x 331.09846pt.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <5> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 439.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <5> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 439.
 
-Overfull \hbox (21.82082pt too wide) in paragraph at lines 424--425
-[]\T2A/cmr/m/up/12 В этом разделе мы сравниваем настоящие результаты с предыдущ
-ими теоретическими
+Overfull \hbox (28.83647pt too wide) in paragraph at lines 480--481
+[]\T2A/cmr/m/up/12 В этом разделе мы сравниваем полученные результаты с предыду
+щими теоретическими
  []
 
 
-Overfull \hbox (28.89001pt too wide) in paragraph at lines 424--425
-\T2A/cmr/m/up/12 исследованиями и с экспериментальными данными из [[]]. Спектро
-скопические постоянные
+Overfull \hbox (21.0586pt too wide) in paragraph at lines 480--481
+\T2A/cmr/m/up/12 исследованиями и экспериментальными данными из [[]]. Спектроск
+опические постоянные
  []
 
 
-Overfull \hbox (12.35695pt too wide) in paragraph at lines 424--425
-\T2A/cmr/m/up/12 затем использованы совместно с двумя низшими уровнями рассчита
-нного ровибронного
+Overfull \hbox (11.05177pt too wide) in paragraph at lines 480--481
+\T2A/cmr/m/up/12 затем использованы совместно с первыми двумя уровнями рассчита
+нного вращательно-
  []
 
 
-Overfull \hbox (7.72346pt too wide) in paragraph at lines 426--427
+
+[19]
+Overfull \hbox (7.72346pt too wide) in paragraph at lines 484--485
 \T2A/cmr/m/up/12 по большинству параметров с потенциалом из [[]], который был в
 осстановлен инверсией
  []
 
 
-Overfull \hbox (2.61792pt too wide) in paragraph at lines 426--427
-\T2A/cmr/m/up/12 продвинутых методов. Поэтому настоящее сравнение мы ограничива
-ем результатами,
+Overfull \hbox (11.80243pt too wide) in paragraph at lines 484--485
+\T2A/cmr/m/up/12 подробное сравнение предыдущих результатов было приведено в [[
+]], также выделяющее
+ []
+
+
+Overfull \hbox (13.6623pt too wide) in paragraph at lines 484--485
+\T2A/cmr/m/up/12 общую тенденцию последовательного углубления потенциальных ям 
+при использовании
+ []
+
+
+Overfull \hbox (10.94307pt too wide) in paragraph at lines 484--485
+\T2A/cmr/m/up/12 все более продвинутых методов. Сравнение потенциальной кривой 
+основного состояния
  []
 
 
 
-[18]
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 433.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 433.
+[20 <./images/states_all.png>]
+Overfull \hbox (25.89896pt too wide) in paragraph at lines 486--487
+\T2A/cmr/m/up/12 ввиду большего числа молекулярных орбиталей дают более глубоки
+е ямы и отличающиеся
+ []
 
-Overfull \hbox (62.97672pt too wide) in paragraph at lines 433--457
+
+Overfull \hbox (4.32805pt too wide) in paragraph at lines 486--487
+\T2A/cmr/m/up/12 получены ППЭ 15-и состояний, из которых $[]\OT1/cmr/m/n/12 ^^E
+$\T2A/cmr/m/up/12 , $[]\OT1/cmr/m/n/12 ^^A[]$\T2A/cmr/m/up/12 , $[]\OT1/cmr/m/n
+/12 ^^A[]$\T2A/cmr/m/up/12 , $[]\OT1/cmr/m/n/12 ^^F[]\OML/cmm/m/it/12 =[]\OT1/c
+mr/m/n/12 ^^F[]$ \T2A/cmr/m/up/12 и $[]\OT1/cmr/m/n/12 ^^F[]\OML/cmm/m/it/12 =[
+]\OT1/cmr/m/n/12 ^^F[]$ \T2A/cmr/m/up/12 являются
+ []
+
+
+Overfull \hbox (3.1971pt too wide) in paragraph at lines 486--487
+\T2A/cmr/m/up/12 слабосвязанными в интервале расстояний 2.5--5 []A. Состояния $
+\OT1/cmr/m/n/12 (1)[]^^A$ \T2A/cmr/m/up/12 и $\OT1/cmr/m/n/12 (2)[]^^F[]$ \T2A/
+cmr/m/up/12 обладают
+ []
+
+<images/compare.png, id=312, 867.24pt x 578.16pt>
+File: images/compare.png Graphic file (type png)
+<use images/compare.png>
+Package pdftex.def Info: images/compare.png  used on input line 490.
+(pdftex.def)             Requested size: 409.71692pt x 273.14676pt.
+
+Overfull \hbox (52.97916pt too wide) in paragraph at lines 497--521
  [][] 
  []
 
 
-Overfull \hbox (6.64659pt too wide) in paragraph at lines 465--466
-[]\T2A/cmr/m/up/12 Для расчета термодинамических функций мы использовали кривые
- потенциальной
- []
 
-
-Overfull \hbox (3.5864pt too wide) in paragraph at lines 465--466
-\T2A/cmr/m/up/12 энергии всех связанных состояний. Взаимодействие с программами
- обработки LEVEL
- []
-
-
-Overfull \hbox (9.4182pt too wide) in paragraph at lines 465--466
-\T2A/cmr/m/up/12 Ровибронные энергетические спектры всех рассмотренных состояни
-й были объединены
- []
-
-
-Overfull \hbox (23.05788pt too wide) in paragraph at lines 465--466
-\T2A/cmr/m/up/12 для получения итоговых результатов, представленных сплошными л
-иниями на Рисунке []2[]. 
- []
-
-
-
-[19 <./images/states_all.png>]
-Overfull \hbox (20.67793pt too wide) in paragraph at lines 467--468
-[]\T2A/cmr/m/up/12 Мы также подчеркиваем важность включения энергетических уров
-ней возбужденных
- []
-
-
-Overfull \hbox (33.40387pt too wide) in paragraph at lines 467--468
+[21 <./images/compare.png>]
+Overfull \hbox (33.40387pt too wide) in paragraph at lines 531--532
 \T2A/cmr/m/up/12 состояний в температурную зависимость статистической суммы при
  высоких температурах.
  []
 
 
-Overfull \hbox (59.92874pt too wide) in paragraph at lines 467--468
-\T2A/cmr/m/up/12 Чтобы проиллюстрировать этот момент, несколько дополнительных 
-кривых термодинамических
+Overfull \hbox (33.82407pt too wide) in paragraph at lines 531--532
+\T2A/cmr/m/up/12 На рисунке []5[] дополнительно изображены кривые термодинамиче
+ских функций, нанесенные
  []
 
 
-Overfull \hbox (31.26793pt too wide) in paragraph at lines 469--470
-\T2A/cmr/m/up/12 ограничены этим диапазоном. Кроме того, табличные данные для в
-сех термодинамических
+Overfull \hbox (23.94104pt too wide) in paragraph at lines 531--532
+\T2A/cmr/m/up/12 кривая включает в расчет статистической суммы энергетические у
+ровни дополнительного
  []
 
 
-Overfull \hbox (36.88461pt too wide) in paragraph at lines 469--470
-\T2A/cmr/m/up/12 вместе с коэффициентами полиномиальной аппроксимации в Таблице
- []3[]. Эта аппроксимация
+Overfull \hbox (34.76355pt too wide) in paragraph at lines 531--532
+\T2A/cmr/m/up/12 возбужденного состояния. Соответственно самая высокая (сплошна
+я) кривая соответствует
  []
 
 
-Overfull \hbox (40.81454pt too wide) in paragraph at lines 469--470
-\T2A/cmr/m/up/12 используется стандартными информационными системами, такими ка
-к IV-TAN-THERMO [[],
+Overfull \hbox (22.45053pt too wide) in paragraph at lines 533--534
+\T2A/cmr/m/up/12 графике термодинамической функции $\OML/cmm/m/it/12 X$\T2A/cmr
+/m/up/12 . В таблице []3[] даны значения данного отклонения
+ []
+
+
+Overfull \hbox (1.81715pt too wide) in paragraph at lines 533--534
+\T2A/cmr/m/up/12 показывающую особую чувствительность $\OML/cmm/m/it/12 C[]$ \T
+2A/cmr/m/up/12 и $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 H[]$ \T2A/cmr/m/up/12 к у
+чету возбужденных состояний. 
  []
 
 
 
-[20]
-<images/thermo.png, id=313, 794.97pt x 578.16pt>
+[22]
+<images/thermo.png, id=347, 939.51pt x 722.7pt>
 File: images/thermo.png Graphic file (type png)
 <use images/thermo.png>
-Package pdftex.def Info: images/thermo.png  used on input line 480.
-(pdftex.def)             Requested size: 386.96027pt x 281.43062pt.
+Package pdftex.def Info: images/thermo.png  used on input line 560.
+(pdftex.def)             Requested size: 455.24411pt x 350.18927pt.
+<images/compare_thermo.png, id=348, 939.51pt x 657.657pt>
+File: images/compare_thermo.png Graphic file (type png)
+<use images/compare_thermo.png>
+Package pdftex.def Info: images/compare_thermo.png  used on input line 565.
+(pdftex.def)             Requested size: 455.24411pt x 318.67224pt.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 486.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 572.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 486.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 572.
 
-Overfull \hbox (0.68547pt too wide) in paragraph at lines 526--539
+Overfull \hbox (0.68547pt too wide) in paragraph at lines 612--625
 [][] 
  []
 
 
 
-[21 <./images/thermo.png>]
+[23 <./images/thermo.png>]
 
-[22]
-Overfull \hbox (28.44402pt too wide) in paragraph at lines 558--559
+LaTeX Warning: Reference `fig:states_all2' on page 24 undefined on input line 6
+35.
+
+
+Overfull \hbox (4.94434pt too wide) in paragraph at lines 635--636
+[]\T2A/cmr/m/up/12 Для молекулы ArC были получены состояния 6-ти различных пред
+елов, на рисунке
+ []
+
+
+Overfull \hbox (5.94965pt too wide) in paragraph at lines 635--636
+[] \T2A/cmr/m/up/12 изображены лишь связанные, а также по одному состоянию на о
+ставшиеся пределы.
+ []
+
+
+
+[24 <./images/compare_thermo.png>]
+
+LaTeX Warning: Reference `tab:spectroscopic2' on page 25 undefined on input lin
+e 646.
+
+
+Overfull \hbox (10.44931pt too wide) in paragraph at lines 646--647
+\T2A/cmr/m/up/12 спин-орбитального взаимодействия. Полученные данные спектроско
+пических констант
+ []
+
+
+LaTeX Warning: Citation `Sohlberg' on page 25 undefined on input line 648.
+
+
+LaTeX Warning: Reference `tab:spectroscopic2' on page 25 undefined on input lin
+e 648.
+
+
+LaTeX Warning: Reference `tab:limits2' on page 25 undefined on input line 648.
+
+
+LaTeX Warning: Citation `Sohlberg' on page 25 undefined on input line 648.
+
+
+Overfull \hbox (23.25455pt too wide) in paragraph at lines 648--649
+\T2A/cmr/m/up/12 затрагивающий ППЭ Ван дер Вальсовой молекулы ArC на уровне MRC
+I. Представленные
+ []
+
+
+Overfull \hbox (1.5644pt too wide) in paragraph at lines 648--649
+\T2A/cmr/m/up/12 результаты для связанного состояния $\OT1/cmr/m/n/12 (2)[]^^E$
+ \T2A/cmr/m/up/12 также сравниваются в таблице [], данные
+ []
+
+
+Overfull \hbox (14.31488pt too wide) in paragraph at lines 648--649
+\T2A/cmr/m/up/12 текущей работы лежат хорошем согласии по основным спектроскопи
+ческим константам.
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (43.75829pt too wide) in paragraph at lines 707--717
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[25]
+Overfull \hbox (28.44402pt too wide) in paragraph at lines 727--728
 \T2A/cmr/m/up/12 высоковозбужденных состояний на результаты, особенно при более
  высоких температурах,
  []
 
 
-Overfull \hbox (67.43187pt too wide) in paragraph at lines 558--559
+Overfull \hbox (67.43187pt too wide) in paragraph at lines 727--728
 \T2A/cmr/m/up/12 типичных для масс-спектрометрии с ICP. Следовательно, точное о
 пределение термодинамических
  []
 
 
-Overfull \hbox (2.0729pt too wide) in paragraph at lines 558--559
+Overfull \hbox (2.0729pt too wide) in paragraph at lines 727--728
 \T2A/cmr/m/up/12 как расчеты при 6500 K и выше требуют всех 21 состояний двух п
 ределов диссоциации
  []
 
 
-Overfull \hbox (35.30072pt too wide) in paragraph at lines 566--567
+Overfull \hbox (35.30072pt too wide) in paragraph at lines 735--736
 []\T2A/cmr/m/up/12 Здесь необходимо написать приложение, которое вы должны прид
 умать самостоятельно. 
  []
 
 
 
-[23] (./main.bbl
+[26] (./main.bbl
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
 15.
 
@@ -1902,7 +2063,7 @@ a-ter / Trygve Hel-gaker,
 
 
 
-[24]
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 152--158
 []\T2A/cmr/m/it/12 Ivanic, Joseph\T2A/cmr/m/up/12 . Di-rect con-fig-u-ra-tion i
 n-ter-ac-tion and mul-ti-con-fig-u-ra-
@@ -1928,12 +2089,20 @@ rg / jcp / article / 119 / 18 / 9364 / 446614 /
 
 )
 
-[25]
+[28]
 
-[26{d:/Programs/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
+[29]
+
+[30]
+
+[31{d:/Programs/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
 nc}]
 
-[27] (./main.aux)
+[32]
+
+[33]
+
+[34] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1946,16 +2115,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3CCAE9CF5136013BB05FDF969897A675;6898.
+(rerunfilecheck)             Checksum: 38D365E818B386839A7762CBD69BE980;6899.
  ) 
 Here is how much of TeX's memory you used:
- 17136 strings out of 473201
- 273867 string characters out of 5715610
- 695311 words of memory out of 5000000
- 39895 multiletter control sequences out of 15000+600000
- 594102 words of font info for 131 fonts, out of 8000000 for 9000
+ 17224 strings out of 473201
+ 275695 string characters out of 5715610
+ 743883 words of memory out of 5000000
+ 39954 multiletter control sequences out of 15000+600000
+ 594439 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,21n,79p,2587b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,21n,79p,2340b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 ><d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
@@ -1979,19 +2148,20 @@ texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><d:/Programs/t
 exlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/Programs/te
 xlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/Programs/tex
 live/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/Programs/texl
-ive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/Programs/texli
-ve/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/Programs/texliv
-e/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><d:/Programs/texlive
-/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/Programs/texlive/
-2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/Programs/texlive/2
-024/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><d:/Programs/texlive/20
-24/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/Programs/texlive/202
-4/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><d:/Programs/texlive/2024
-/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (27 pages, 795690 bytes).
+ive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><d:/Programs/texli
+ve/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/Programs/texliv
+e/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/Programs/texlive
+/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><d:/Programs/texlive/
+2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/Programs/texlive/2
+024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/Programs/texlive/20
+24/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><d:/Programs/texlive/202
+4/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/Programs/texlive/2024
+/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><d:/Programs/texlive/2024/
+texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on main.pdf (34 pages, 1136721 bytes).
 PDF statistics:
- 507 PDF objects out of 1000 (max. 8388607)
- 429 compressed objects within 5 object streams
- 101 named destinations out of 1000 (max. 500000)
- 212 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 588 PDF objects out of 1000 (max. 8388607)
+ 493 compressed objects within 5 object streams
+ 127 named destinations out of 1000 (max. 500000)
+ 232 words of extra memory for PDF output out of 10000 (max. 10000000)
 
