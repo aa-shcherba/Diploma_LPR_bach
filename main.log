@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  15 JUN 2026 21:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  17 JUN 2026 21:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -31,13 +31,6 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen142
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/cmap/cmap.sty
-Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/t2/mathtext.sty
-Package: mathtext 2018/04/14 v1.0 transparent text-and-math defs
-LaTeX Info: Redefining \halign on input line 121.
 )
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -247,15 +240,14 @@ File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+FB04 (decimal 64260)
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
-)
-\symT2Aletters=\mathgroup4
-)
+))
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 16.
 
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)<<t2a.cmap>>) (d:/Programs/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+))
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
@@ -271,12 +263,6 @@ eX and XeLaTeX
 \bbl@readstream=\read2
 \bbl@dirlevel=\count271
 
-(d:/Programs/texlive/2024/texmf-dist/tex/generic/babel-russian/russianb.ldf
-File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
-Language: russian 2020/09/09 1.3k Russian support for the Babel system
-Package babel Info: Making " an active character on input line 124.
-Package babel Info: Default for \cyrdash is provided on input line 163.
-)
 (d:/Programs/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
@@ -285,230 +271,29 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 (babel)             (\language24). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language24). Reported on input line 108.
-))
-(d:/Programs/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.
-tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
 )
+(d:/Programs/texlive/2024/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+))
 (d:/Programs/texlive/2024/texmf-dist/tex/generic/babel/locale/ru/babel-russian.
 tex
 Package babel Info: Importing font and identification data for russian
 (babel)             from babel-ru.ini. Reported on input line 11.
-) (d:/Programs/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2024/11/05 v2.17t AMS math features
-\@mathmargin=\skip51
-
-For additional information on amsmath, use the `?' option.
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
-
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen144
-))
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen145
 )
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2022/04/08 v2.04 operator names
-)
-\inf@bad=\count272
-LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count273
-\leftroot@=\count274
-LaTeX Info: Redefining \overline on input line 398.
-LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count275
-\DOTSCASE@=\count276
-LaTeX Info: Redefining \ldots on input line 495.
-LaTeX Info: Redefining \dots on input line 498.
-LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
-LaTeX Info: Redefining \big on input line 721.
-LaTeX Info: Redefining \Big on input line 722.
-LaTeX Info: Redefining \bigg on input line 723.
-LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen146
-LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
-\symOMLletters=\mathgroup5
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\symOMSletters=\mathgroup6
-\macc@depth=\count277
-LaTeX Info: Redefining \bmod on input line 904.
-LaTeX Info: Redefining \pmod on input line 909.
-LaTeX Info: Redefining \smash on input line 939.
-LaTeX Info: Redefining \relbar on input line 969.
-LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count278
-\dotsspace@=\muskip17
-\c@parentequation=\count279
-\dspbrk@lvl=\count280
-\tag@help=\toks20
-\row@=\count281
-\column@=\count282
-\maxfields@=\count283
-\andhelp@=\toks21
-\eqnshift@=\dimen147
-\alignsep@=\dimen148
-\tagshift@=\dimen149
-\tagwidth@=\dimen150
-\totwidth@=\dimen151
-\lineht@=\dimen152
-\@envbody=\toks22
-\multlinegap=\skip52
-\multlinetaggap=\skip53
-\mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2953.
-LaTeX Info: Redefining \] on input line 2954.
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup7
-\symAMSb=\mathgroup8
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks24
-\thm@bodyfont=\toks25
-\thm@headfont=\toks26
-\thm@notefont=\toks27
-\thm@headpunct=\toks28
-\thm@preskip=\skip54
-\thm@postskip=\skip55
-\thm@headsep=\skip56
-\dth@everypar=\toks29
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+(d:/Programs/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.
+tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (d:/Programs/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks30
+\KV@toks@=\toks19
 )
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count284
-\calc@Bcount=\count285
-\calc@Adimen=\dimen153
-\calc@Bdimen=\dimen154
-\calc@Askip=\skip57
-\calc@Bskip=\skip58
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count286
-\calc@Cskip=\skip59
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty
-Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
-)
-\g_MT_multlinerow_int=\count287
-\l_MT_multwidth_dim=\dimen155
-\origjot=\skip60
-\l_MT_shortvdotswithinadjustabove_dim=\dimen156
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen157
-\l_MT_above_intertext_sep=\dimen158
-\l_MT_below_intertext_sep=\dimen159
-\l_MT_above_shortintertext_sep=\dimen160
-\l_MT_below_shortintertext_sep=\dimen161
-\xmathstrut@box=\box54
-\xmathstrut@dim=\dimen162
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/was/icomma.sty
-Package: icomma 2002/03/10 v2.0 (WaS)
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsfonts/euscript.sty
-Package: euscript 2009/06/22 v3.00 Euler Script fonts
-LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
-(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
-\symrsfs=\mathgroup9
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
-Package xcolor Info: Model `RGB' extended on input line 1365.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(d:/Programs/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(d:/Programs/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2024/12/12 v1.0g TeX engine tests
-))
-\Gm@cnth=\count288
-\Gm@cntv=\count289
-\c@Gm@tempcnt=\count290
-\Gm@bindingoffset=\dimen163
-\Gm@wd@mp=\dimen164
-\Gm@odd@mp=\dimen165
-\Gm@even@mp=\dimen166
-\Gm@layoutwidth=\dimen167
-\Gm@layoutheight=\dimen168
-\Gm@layouthoffset=\dimen169
-\Gm@layoutvoffset=\dimen170
-\Gm@dimlist=\toks31
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2025/02/06 v3.11 Customized lists
-\labelindent=\skip61
-\enit@outerparindent=\dimen171
-\enit@toks=\toks32
-\enit@inbox=\box55
-\enit@count@id=\count291
-\enitdp@description=\count292
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen172
-\captionmargin=\dimen173
-\caption@leftmargin=\dimen174
-\caption@rightmargin=\dimen175
-\caption@width=\dimen176
-\caption@indent=\dimen177
-\caption@parindent=\dimen178
-\caption@hangindent=\dimen179
-Package caption Info: Standard document class detected.
-)
-\c@caption@flags=\count293
-\c@continuedfloat=\count294
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
@@ -519,104 +304,19 @@ Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
-)
-\Gin@req@height=\dimen180
-\Gin@req@width=\dimen181
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen182
-\WF@size=\dimen183
-\c@WF@wrappedlines=\count295
-\WF@box=\box56
-\WF@everypar=\toks33
-Package: wrapfig 2003/01/31  v 3.6
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/tools/array.sty
-Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
-\col@sep=\dimen184
-\ar@mcellbox=\box57
-\extrarowheight=\dimen185
-\NC@list=\toks34
-\extratabsurround=\skip62
-\backup@length=\skip63
-\ar@cellbox=\box58
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
-\TX@col@width=\dimen186
-\TX@old@table=\dimen187
-\TX@old@col=\dimen188
-\TX@target=\dimen189
-\TX@delta=\dimen190
-\TX@cols=\count296
-\TX@ftn=\toks35
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/tabulary/tabulary.sty
-Package: tabulary 2024/06/04 v0.11 tabulary package (DPC)
-\TY@count=\count297
-\TY@linewidth=\dimen191
-\tymin=\dimen192
-\tymax=\dimen193
-\TY@tablewidth=\dimen194
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen195
-\lightrulewidth=\dimen196
-\cmidrulewidth=\dimen197
-\belowrulesep=\dimen198
-\belowbottomsep=\dimen199
-\aboverulesep=\dimen256
-\abovetopsep=\dimen257
-\cmidrulesep=\dimen258
-\cmidrulekern=\dimen259
-\defaultaddspace=\dimen260
-\@cmidla=\count298
-\@cmidlb=\count299
-\@aboverulesep=\dimen261
-\@belowrulesep=\dimen262
-\@thisruleclass=\count300
-\@lastruleclass=\count301
-\@thisrulewidth=\dimen263
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
-\LTleft=\skip64
-\LTright=\skip65
-\LTpre=\skip66
-\LTpost=\skip67
-\LTchunksize=\count302
-\LTcapwidth=\dimen264
-\LT@head=\box59
-\LT@firsthead=\box60
-\LT@foot=\box61
-\LT@lastfoot=\box62
-\LT@gbox=\box63
-\LT@cols=\count303
-\LT@rows=\count304
-\c@LT@tables=\count305
-\c@LT@chunks=\count306
-\LT@p@ftn=\toks36
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
-\multirow@colwidth=\skip68
-\multirow@cntb=\count307
-\multirow@dima=\skip69
-\bigstrutjot=\dimen265
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/makecell/makecell.sty
-Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen266
-\c@nlinenum=\count308
-\TeXr@lab=\toks37
-)
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/tools/hhline.sty
-Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
 )
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
 
+(d:/Programs/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
@@ -654,39 +354,36 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (d:/Programs/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count309
+\c@section@level=\count272
 )
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count310
+\etb@tempcnta=\count273
 )
 (d:/Programs/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen267
-\Hy@linkcounter=\count311
-\Hy@pagecounter=\count312
+\@linkdim=\dimen146
+\Hy@linkcounter=\count274
+\Hy@pagecounter=\count275
 
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-\symPD1letters=\mathgroup10
 )
 (d:/Programs/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count313
+\Hy@SavedSpaceFactor=\count276
 
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
-\symPUletters=\mathgroup11
 )
 Package hyperref Info: Option `unicode' set `true' on input line 3143.
-Package hyperref Info: Option `unicode' set `true' on input line 4040.
 Package hyperref Info: Hyper figures OFF on input line 4157.
 Package hyperref Info: Link nesting OFF on input line 4162.
 Package hyperref Info: Hyper index ON on input line 4165.
@@ -694,14 +391,14 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count314
+\c@Hy@tempcnt=\count277
 
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip18
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen268
+\XeTeXLinkMargin=\dimen147
 
 (d:/Programs/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -710,9 +407,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count315
-\Field@Width=\dimen269
-\Fld@charsize=\dimen270
+\Fld@menulength=\count278
+\Field@Width=\dimen148
+\Fld@charsize=\dimen149
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -725,11 +422,11 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count316
-\c@Item=\count317
-\c@Hfootnote=\count318
+\Hy@abspage=\count279
+\c@Item=\count280
+\c@Hfootnote=\count281
 )
-Package hyperref Info: Driver: hpdftex.
+Package hyperref Info: Driver (autodetected): hpdftex.
 
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
@@ -739,8 +436,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count319
-\c@bookmark@seq@number=\count320
+\Fld@listcount=\count282
+\c@bookmark@seq@number=\count283
 
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.st
 y
@@ -753,53 +450,299 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip70
-) (d:/Programs/texlive/2024/texmf-dist/tex/latex/tools/indentfirst.sty
-Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+\Hy@SectionHShift=\skip51
+) (d:/Programs/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count284
+\mult@box=\box52
+\multicol@leftmargin=\dimen150
+\c@unbalance=\count285
+\c@collectmore=\count286
+\doublecol@number=\count287
+\multicoltolerance=\count288
+\multicolpretolerance=\count289
+\full@width=\dimen151
+\page@free=\dimen152
+\premulticols=\dimen153
+\postmulticols=\dimen154
+\multicolsep=\skip52
+\multicolbaselineskip=\skip53
+\partial@page=\box53
+\last@line=\box54
+\mc@boxedresult=\box55
+\maxbalancingoverflow=\dimen155
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count290
+\c@columnbadness=\count291
+\c@finalcolumnbadness=\count292
+\last@try=\dimen156
+\multicolovershoot=\dimen157
+\multicolundershoot=\dimen158
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count293
 )
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/pstool/pstool.sty
+Package: pstool 2018/01/20 v1.5e Wrapper for processing PostScript/psfrag figur
+es
+
+(d:/Programs/texlive/2024/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(d:/Programs/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
+
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(d:/Programs/texlive/2024/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+(d:/Programs/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+
+Package ifplatform Warning: 
+    shell escape is disabled, so I can only detect \ifwindows.
+
+) (d:/Programs/texlive/2024/texmf-dist/tex/latex/filemod/filemod.sty
+Package: filemod 2011/09/19 v1.2 Get and compare file modification times
+
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/filemod/filemod-expmin.sty
+Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times
+ (expandable; minimal)
+))
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/psfrag/psfrag.sty
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count294
+\pfg@scount=\count295
+\pfg@temp=\write3
+)
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(d:/Programs/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(d:/Programs/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count296
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
 (d:/Programs/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count321
-\l__pdf_internal_box=\box64
+\l__color_backend_stack_int=\count297
+\l__pdf_internal_box=\box98
+))
+\pstool@out=\write4
+\pstool@mainfile@ior=\read3
+\pstool@auxfile@ior=\read4
+
+Package pstool Warning: 
+  Package option [process=none] activated
+  because -shell-escape is not enabled.
+This warning occurred on input line 163.
+
+runsystem(cd ""& copy "main.aux" "main.oldaux" )...disabled (restricted).
+
+) (d:/Programs/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen159
+))
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen160
 )
-(./main.aux)
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count298
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count299
+\leftroot@=\count300
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count301
+\DOTSCASE@=\count302
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box99
+\strutbox@=\box100
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen161
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count303
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count304
+\dotsspace@=\muskip18
+\c@parentequation=\count305
+\dspbrk@lvl=\count306
+\tag@help=\toks23
+\row@=\count307
+\column@=\count308
+\maxfields@=\count309
+\andhelp@=\toks24
+\eqnshift@=\dimen162
+\alignsep@=\dimen163
+\tagshift@=\dimen164
+\tagwidth@=\dimen165
+\totwidth@=\dimen166
+\lineht@=\dimen167
+\@envbody=\toks25
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(d:/Programs/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count310
+\Gm@cntv=\count311
+\c@Gm@tempcnt=\count312
+\Gm@bindingoffset=\dimen168
+\Gm@wd@mp=\dimen169
+\Gm@odd@mp=\dimen170
+\Gm@even@mp=\dimen171
+\Gm@layoutwidth=\dimen172
+\Gm@layoutheight=\dimen173
+\Gm@layouthoffset=\dimen174
+\Gm@layoutvoffset=\dimen175
+\Gm@dimlist=\toks27
+)
+(d:/Programs/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count313
+\float@exts=\toks28
+\float@box=\box101
+\@float@everytoks=\toks29
+\@floatcapt=\box102
+) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Info: Redefining \th on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Info: Redefining \th on input line 115.
 
 (d:/Programs/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count322
-\scratchdimen=\dimen271
-\scratchbox=\box65
-\nofMPsegments=\count323
-\nofMParguments=\count324
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count325
-\MPscratchDim=\dimen272
-\MPnumerator=\count326
-\makeMPintoPDFobject=\count327
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count314
+\scratchdimen=\dimen176
+\scratchbox=\box103
+\nofMPsegments=\count315
+\nofMParguments=\count316
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count317
+\MPscratchDim=\dimen177
+\MPnumerator=\count318
+\makeMPintoPDFobject=\count319
+\everyMPtoPDFconversion=\toks31
 ) (d:/Programs/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -808,28 +751,35 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+Package hyperref Info: Link coloring OFF on input line 115.
+
+(./main.out) (./main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=455.24411pt
-* \textheight=731.23584pt
+* h-part:(L,W,R)=(85.35826pt, 472.03123pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=681.15898pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
-* \topmargin=-68.36449pt
-* \headheight=28.0pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
@@ -842,1289 +792,404 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: hyperref package is loaded.
-Package caption Info: longtable package is loaded.
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
-)
-Package caption Info: wrapfig package is loaded.
-Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 84.
-
-(./main.out) (./main.out)
-\@outlinefile=\write3
-\openout3 = `main.out'.
-
-<images/MIPT_logo.jpg, id=93, 803.0pt x 401.5pt>
+<images/MIPT_logo.jpg, id=88, 803.0pt x 401.5pt>
 File: images/MIPT_logo.jpg Graphic file (type jpg)
 <use images/MIPT_logo.jpg>
-Package pdftex.def Info: images/MIPT_logo.jpg  used on input line 130.
+Package pdftex.def Info: images/MIPT_logo.jpg  used on input line 161.
 (pdftex.def)             Requested size: 100.0pt x 49.99745pt.
 
 
 [1
+Non-PDF special ignored!
+<special> header=psfrag.pro
 
 {d:/Programs/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/Prog
-rams/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc} <./imag
-es/MIPT_logo.jpg>]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+rams/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
 
-LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 146.
+[2 <./images/MIPT_logo.jpg>]
 
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 1
-46.
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
-)
-
-LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 146.
-
-LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 146.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 146.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 146.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
-46.
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
-)
-
-LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 146.
-
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 146.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 146.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 146.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 146
-.
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 146
-.
-
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 14
-6.
-
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 1
-46.
-LaTeX Font Info:    No file PD1cmr.fd. on input line 146.
+[3] (./main.toc)
+\tf@toc=\write6
+\openout6 = `main.toc'.
 
 
-LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 146.
-
-LaTeX Font Info:    Trying to load font information for PU+cmr on input line 14
-6.
-LaTeX Font Info:    No file PUcmr.fd. on input line 146.
-
-LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 146.
-
-
-
-[2] (./main.toc
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
-)
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
-
-
-[3]
 
 [4]
-Overfull \hbox (8.21288pt too wide) in paragraph at lines 181--182
-\T2A/cmr/m/up/12 собственной к фиксированному гамильтониану системы, определяем
-ой в стационарном
- []
-
-
-Overfull \hbox (0.3338pt too wide) in paragraph at lines 181--182
-\T2A/cmr/m/up/12 уравнении Шредингера []2.1[]. Этот гамильтониан можно разбить 
-набор энергетических
- []
-
-
-Overfull \hbox (4.46045pt too wide) in paragraph at lines 181--182
-\T2A/cmr/m/up/12 операторов, отвечающих отдельным элементам движения и взаимоде
-йствия в системе.
- []
-
-
-Overfull \hbox (2.29166pt too wide) in paragraph at lines 190--191
-\T2A/cmr/m/up/12 определение волновой функции становится невозможным. Альтернат
-ивным способом
- []
-
-
-Overfull \hbox (14.57599pt too wide) in paragraph at lines 190--191
-\T2A/cmr/m/up/12 расчета являются численные методы, основанные на нескольких ба
-зовых приближениях
- []
-
-
-Overfull \hbox (15.22853pt too wide) in paragraph at lines 190--191
-\T2A/cmr/m/up/12 и позволяющие получать волновую функцию с точностью, достаточн
-ой для корректного
- []
-
-
-LaTeX Warning: Citation `born-opper' on page 5 undefined on input line 192.
-
-
-Overfull \hbox (25.67882pt too wide) in paragraph at lines 192--193
-[]\T2A/cmr/m/up/12 Первым является приближение Борна-Оппенгеймера [[]], заключа
-ющиеся в разделении
- []
-
-
-Overfull \hbox (0.70778pt too wide) in paragraph at lines 192--193
-\T2A/cmr/m/up/12 движущуюся в пространстве конструкцию, можно сделать предполож
-ение о схожести
- []
-
-
-Overfull \hbox (11.75546pt too wide) in paragraph at lines 192--193
-\T2A/cmr/m/up/12 порядков импульсов между электронами и ядрами. В то же время и
-х массы отличаются
- []
-
-
-Overfull \hbox (19.66696pt too wide) in paragraph at lines 192--193
-\T2A/cmr/m/up/12 называемого электронным. Здесь набор координат атомов $[]$ ста
-новится фиксированным
- []
-
-
 
 [5]
-Overfull \hbox (8.34106pt too wide) in paragraph at lines 201--202
-\OML/cmm/m/it/12  []$ \T2A/cmr/m/up/12 (далее для краткости называемой электрон
-ной). Связь с полной волновой функцией
- []
-
-
-Overfull \hbox (0.88695pt too wide) in paragraph at lines 201--202
-\T2A/cmr/m/up/12 базиса []2.3[], где коэффициенты линейного разложения $\OML/cm
-m/m/it/12 ^^_[]\OT1/cmr/m/n/12 ([])$ \T2A/cmr/m/up/12 получаются из уравнения
- []
-
-
-Overfull \hbox (21.58945pt too wide) in paragraph at lines 211--212
-[]\T2A/cmr/m/up/12 Возвращаясь к электронному уравнению Шредингера, при раскрыт
-ии энергетических
- []
-
-
-Overfull \hbox (4.4148pt too wide) in paragraph at lines 211--212
-\T2A/cmr/m/up/12 возможно методом рядов Фурье. Выбор базиса для разложения элек
-тронной волновой
- []
-
-
-Overfull \hbox (23.43651pt too wide) in paragraph at lines 213--214
-[]\T2A/cmr/m/up/12 В начале вводится набор функций молекулярных спин-орбиталей 
-(МО) $\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 ^^^[]\OT1/cmr/m/n/12 ([]\OML/cmm/m/it/
-12 ; ^^[[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 g[]$\T2A/cmr/m/up/12 ,
- []
-
-
-Overfull \hbox (10.93887pt too wide) in paragraph at lines 213--214
-\T2A/cmr/m/up/12 электроном. Для гибкости их определяют через линейные комбинац
-ии фиксированного
- []
-
-
-Overfull \hbox (4.68263pt too wide) in paragraph at lines 213--214
-\T2A/cmr/m/up/12 набора атомных орбиталей $\OML/cmm/m/it/12 ^^_[]$ \T2A/cmr/m/u
-p/12 с варьируемыми коэффициентами $\OML/cmm/m/it/12 c[]$ \T2A/cmr/m/up/12 (зде
-сь $\OML/cmm/m/it/12 ^^_[]$ \T2A/cmr/m/up/12 обычно
- []
-
-
-Overfull \hbox (14.80869pt too wide) in paragraph at lines 213--214
-\T2A/cmr/m/up/12 задается комбинацией гауссиан). Выбрав из $\OML/cmm/m/it/12 M$
- \T2A/cmr/m/up/12 спин-орбиталей $\OML/cmm/m/it/12 N$ \T2A/cmr/m/up/12 занятых 
-электронами,
- []
-
-
-Overfull \hbox (50.02408pt too wide) in paragraph at lines 213--214
-\OMS/cmsy/m/n/12 f\OT1/cmr/m/n/12 ^^H[]\OMS/cmsy/m/n/12 g$\T2A/cmr/m/up/12 . Та
-к как здесь $\OT1/cmr/m/n/12 ^^H[]$ \T2A/cmr/m/up/12 представляет собой некотор
-ую конфигурацию системы (фиксированное
- []
-
-
-Overfull \hbox (6.65616pt too wide) in paragraph at lines 219--221
-[]\T2A/cmr/m/up/12 Таким образом нахождение электронной волновой функции $\OML/
-cmm/m/it/12  []$ \T2A/cmr/m/up/12 в методах квантовой
- []
-
-
-Overfull \hbox (35.90146pt too wide) in paragraph at lines 219--221
-\T2A/cmr/m/up/12 минимизации энергии системы. Для дальнейшего анализа полное пр
-остранство полученных
- []
-
-
 
 [6]
-Overfull \hbox (2.99886pt too wide) in paragraph at lines 221--222
-[]\T2A/cmr/m/up/12 остовные (core) - орбитали внутренних электронных оболочек, 
-которые остаются
+
+LaTeX Warning: Citation `casscf' on page 7 undefined on input line 228.
+
+
+LaTeX Warning: Citation `hf' on page 7 undefined on input line 228.
+
+
+LaTeX Warning: Citation `full_ci' on page 7 undefined on input line 228.
+
+
+Overfull \hbox (10.9143pt too wide) in paragraph at lines 228--229
+\T2A/cmr/m/n/12 Обсуждение квантово-механические ме-то-ды не мо-жет быть пол-ны
+м. Ос-нов-ны-ми квантово-
  []
 
 
-Overfull \hbox (14.90909pt too wide) in paragraph at lines 223--224
-\T2A/cmr/m/up/12 рамках многоконфигурационного разложения, так и при изменении 
-межъядерного
- []
-
-
-Overfull \hbox (3.71397pt too wide) in paragraph at lines 226--227
-[]\T2A/cmr/m/up/12 Основным отличием методов квантовой химии является размернос
-ть пространства
- []
-
-
-Overfull \hbox (35.67848pt too wide) in paragraph at lines 226--227
-\T2A/cmr/m/up/12 волновая функция $\OML/cmm/m/it/12  []$\T2A/cmr/m/up/12 . Приб
-лижения, используемые различными методами для уменьшения
- []
-
-
-Overfull \hbox (6.3202pt too wide) in paragraph at lines 226--227
-\T2A/cmr/m/up/12 самосогласованного поля в полном активном пространстве и много
-конфигурационного
- []
-
-
-Overfull \hbox (48.40338pt too wide) in paragraph at lines 226--227
-\T2A/cmr/m/up/12 взаимодействия, являющихся более вычислительно затратными. Так
-ое решение продиктовано
- []
-
-
-Overfull \hbox (40.90904pt too wide) in paragraph at lines 226--227
-\T2A/cmr/m/up/12 сложностью орбитальной структуры исследуемых молекул и сильным
- влиянием электронной
- []
-
-
-Overfull \hbox (48.46312pt too wide) in paragraph at lines 228--228
-[]\T2A/cmr/bx/n/14.4 Метод самосогласованного поля в полном активном пространст
-ве 
- []
-
-
-Overfull \hbox (39.11441pt too wide) in paragraph at lines 231--232
-\T2A/cmr/m/up/12 в правильном определении энергии состояния с несколькими ведущ
-ими конфигурационными
+Overfull \hbox (38.81131pt too wide) in paragraph at lines 230--231
+[]\T2A/cmr/m/n/12 Среди пред-ше-ству-ю-щих тео-ре-ти-че-ских ис-сле-до-ва-ний, 
+по-свя-щен-ных квантово-механическим
  []
 
 
 
 [7]
-Overfull \hbox (30.30411pt too wide) in paragraph at lines 233--234
-\T2A/cmr/m/up/12 позволяет одновременно избежать проклятия размерности (экспоне
-нциального увеличения
- []
 
-
-Overfull \hbox (5.50456pt too wide) in paragraph at lines 235--236
-[]\T2A/cmr/m/up/12 Помимо учета статической корреляции таким важным результатом
- также является
- []
-
-
-Overfull \hbox (29.58606pt too wide) in paragraph at lines 235--236
-\T2A/cmr/m/up/12 возможность оптимизации энергии для нескольких состояний систе
-мы, ввиду возможности
- []
-
-
-Overfull \hbox (16.02673pt too wide) in paragraph at lines 235--236
-\T2A/cmr/m/up/12 одним преимуществом является подбор молекулярных орбиталей $\O
-ML/cmm/m/it/12 c[]$ \T2A/cmr/m/up/12 с учетом нескольких
- []
-
-
-Overfull \hbox (3.47177pt too wide) in paragraph at lines 237--238
-\T2A/cmr/m/up/12 молекулярных орбиталей обозначается как случай CAS(9,7), кажда
-я MO маркируется
- []
-
-
-Overfull \hbox (16.27278pt too wide) in paragraph at lines 237--238
-\T2A/cmr/m/up/12 согласно атомной орбитали с наибольшим процентным вкладом на п
-ределе диссоциации.
- []
-
-
-Overfull \hbox (3.70447pt too wide) in paragraph at lines 237--238
-\T2A/cmr/m/up/12 Отдельно для ArC в пространство активных орбиталей была дополн
-ительно включена
- []
-
-
-Overfull \hbox (9.09412pt too wide) in paragraph at lines 239--240
-\T2A/cmr/m/up/12 Эта проблема проявляется через появление вкладов более и менее
- диффузных атомных
- []
-
-
-Overfull \hbox (12.45494pt too wide) in paragraph at lines 239--240
-\T2A/cmr/m/up/12 одновременно описывать две различные физические ситуации, допо
-лнительно усиливая
- []
-
-
-Overfull \hbox (12.40723pt too wide) in paragraph at lines 239--240
-\T2A/cmr/m/up/12 проблему "компромиссных орбиталей". Для иллюстрации этой пробл
-емы ниже показан
- []
+LaTeX Warning: Citation `thermotool' on page 8 undefined on input line 236.
 
 
 
 [8]
-Overfull \hbox (0.93628pt too wide) in paragraph at lines 246--247
-[]\T2A/cmr/m/up/12 Для решения данной проблемы применялась процедура усреднения
- по состояниям
- []
 
-
-Overfull \hbox (50.41931pt too wide) in paragraph at lines 246--247
-\T2A/cmr/m/up/12 (state av-er-aged CASSCF, SA-CASSCF) со специальной схемой зад
-ания весовых коэффициентов,
- []
-
-
-Overfull \hbox (9.96411pt too wide) in paragraph at lines 246--247
-\T2A/cmr/m/up/12 обеспечивающей равноправный вклад каждого асимптотического пре
-дела. Суммарные
- []
-
-
-Overfull \hbox (11.91779pt too wide) in paragraph at lines 246--247
-\T2A/cmr/m/up/12 предела распределялись равномерно. Корректность использованных
- весов проверялась
- []
-
-
-Overfull \hbox (8.43712pt too wide) in paragraph at lines 246--247
-\T2A/cmr/m/up/12 путем сопоставления рассчитанных чисел заселенности молекулярн
-ых орбиталей (МО)
- []
-
-
-Overfull \hbox (2.50244pt too wide) in paragraph at lines 246--247
-\T2A/cmr/m/up/12 с значениями заселенностей, полученных путем усреднения конфиг
-ураций различных
- []
-
-
-Overfull \hbox (7.01343pt too wide) in paragraph at lines 248--249
-\T2A/cmr/m/up/12 все состояния. Вычисленный методом SA-CASSCF набор конфигураци
-онных функций
- []
-
-
-Overfull \hbox (41.65973pt too wide) in paragraph at lines 248--249
-\T2A/cmr/m/up/12 состояний также является хорошим приближением, но не учитывает
- более высокоэнергичные
- []
-
-
-Overfull \hbox (43.3301pt too wide) in paragraph at lines 248--249
-\T2A/cmr/m/up/12 SA-CASSCF пространтвом молекулярных орбиталей проводится расче
-т методом MRACPF2a. 
- []
-
-
-Overfull \hbox (26.55122pt too wide) in paragraph at lines 251--251
-[]\T2A/cmr/bx/n/14.4 Многорференсный метод конфигурационного взаимодействия 
- []
-
-
-Overfull \hbox (8.6087pt too wide) in paragraph at lines 254--255
-[]\T2A/cmr/m/up/12 Следующий метод позволяет учесть влияние динамической коррел
-яции на точность
- []
-
-
-Overfull \hbox (33.8935pt too wide) in paragraph at lines 254--255
-\T2A/cmr/m/up/12 которые с одной стороны позволяют учесть столкновения электрон
-ов через их возбуждение,
- []
-
-
-Overfull \hbox (40.91599pt too wide) in paragraph at lines 254--255
-\T2A/cmr/m/up/12 а с другой расширяют пространство $\OMS/cmsy/m/n/12 f\OT1/cmr/
-m/n/12 ^^H[]\OMS/cmsy/m/n/12 g$ \T2A/cmr/m/up/12 в достаточной мере для правиль
-ной аппроксимации
- []
-
-
-Overfull \hbox (3.8729pt too wide) in paragraph at lines 256--257
-\T2A/cmr/m/up/12 возбужденных конфигурационных функций состояния влечет экспоне
-нциальный рост
- []
-
-
-Overfull \hbox (9.84445pt too wide) in paragraph at lines 256--257
-\T2A/cmr/m/up/12 вычислительных затрат, полученная такая таким образом волновая
- функция считается
- []
-
-
-Overfull \hbox (62.05396pt too wide) in paragraph at lines 256--257
-\T2A/cmr/m/up/12 точной (над отдельно выделенным пространством молекулярных орб
-италей), а соответствующий
- []
-
-
-Overfull \hbox (2.77773pt too wide) in paragraph at lines 256--257
-\T2A/cmr/m/up/12 метод FullCI является эталонным. Однако для сохранения разумно
-го времени расчета
- []
-
-
-Overfull \hbox (10.90332pt too wide) in paragraph at lines 256--257
-\T2A/cmr/m/up/12 возбуждениями ограниченного набора $\OMS/cmsy/m/n/12 f\OT1/cmr
-/m/n/12 ^^H[]\OMS/cmsy/m/n/12 g[]$\T2A/cmr/m/up/12 , определяемыми в CASSCF. Уп
-рощенная
- []
-
-
-Overfull \hbox (41.56169pt too wide) in paragraph at lines 256--257
-\T2A/cmr/m/up/12 подобным образом схема является вариантом многореференсного ме
-тода конфигурационного
- []
+LaTeX Warning: Citation `born-opper' on page 9 undefined on input line 255.
 
 
 
 [9]
-Overfull \hbox (1.51053pt too wide) in paragraph at lines 258--259
-[]\T2A/cmr/m/up/12 В данной работе используется дополненный к MR-CISD метод, мо
-дифицированный
- []
-
-
-Overfull \hbox (33.12785pt too wide) in paragraph at lines 258--259
-\T2A/cmr/m/up/12 специально для соблюдения размерной экстенсивности. Проблема с
-остоит в несоответствии
- []
-
-
-Overfull \hbox (56.39447pt too wide) in paragraph at lines 258--259
-\T2A/cmr/m/up/12 частей, а причиной служит отсутствие учета более высоких возбу
-ждений. В модифицированной
- []
-
-
-Overfull \hbox (13.98862pt too wide) in paragraph at lines 258--259
-\T2A/cmr/m/up/12 версии для включения данного эффекта вводится измененная норми
-ровка функционала
- []
-
-
-Overfull \hbox (37.43507pt too wide) in paragraph at lines 258--259
-\T2A/cmr/m/up/12 fects). Полученная схема называется мультирефернсым методом ус
-редненного функционала
- []
-
-
-LaTeX Warning: Citation `opi' on page 10 undefined on input line 270.
-
-
-Overfull \hbox (1.9151pt too wide) in paragraph at lines 270--271
-[]\T2A/cmr/m/up/12 Практическая реализация вышеописанных квантово-химических ме
-тодов и расчет
- []
-
-
-Overfull \hbox (29.48824pt too wide) in paragraph at lines 270--271
-\T2A/cmr/m/up/12 потенциальных кривых исследуемой системы выполнялись с использ
-ованием современного
- []
-
-
-Overfull \hbox (17.79129pt too wide) in paragraph at lines 270--271
-\T2A/cmr/m/up/12 программного комплекса Orca 6.1.0-f.0 [[]]. Данный пакет оптим
-изирован для проведения
- []
-
-
-Overfull \hbox (16.95123pt too wide) in paragraph at lines 270--271
-\T2A/cmr/m/up/12 высокоуровневых многоконфигурационных расчетов SA-CASSCF и MRA
-CPF2a. Вместе
- []
-
-
-Overfull \hbox (35.19861pt too wide) in paragraph at lines 270--271
-\T2A/cmr/m/up/12 массивов данных квантово-химического вывода) был разработан со
-бственный программный
+Overfull \hbox (6.64938pt too wide) in paragraph at lines 276--277
+[]\T2A/cmr/m/n/12 В на-ча-ле вво-дит-ся на-бор функ-ций мо-ле-ку-ляр-ных спин-о
+рбиталей (МО) $\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 ^^^[]\OT1/cmr/m/n/12 ([]\OML/
+cmm/m/it/12 ; ^^[[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 g[]$\T2A/cmr/m/n/12 ,
  []
 
 
 
 [10]
-Overfull \hbox (35.53748pt too wide) in paragraph at lines 272--273
-[]\T2A/cmr/m/up/12 Реализации методов CASSCF и MRACPF2a, доступные в пакете Orc
-a [[]], использовались
- []
-
-
-Overfull \hbox (3.7098pt too wide) in paragraph at lines 272--273
-\T2A/cmr/m/up/12 совместно с расширенными корреляционно-согласованными базисным
-и наборами aug-
- []
-
-
-Overfull \hbox (30.70828pt too wide) in paragraph at lines 272--273
-\T2A/cmr/m/up/12 базисного набора aug-cc-pwCV$\OMS/cmsy/m/n/12 1$\T2A/cmr/m/up/
-12 Z (CBS). Для использования пространственной симметрии
- []
-
-
-Overfull \hbox (2.28496pt too wide) in paragraph at lines 274--275
-\T2A/cmr/m/up/12 разделенных по неприводимым представлениям, выглядит следующим
- образом; здесь
- []
-
-
-Overfull \hbox (2.72469pt too wide) in paragraph at lines 281--282
-[]\T2A/cmr/m/up/12 Аналогичные вычисления были проделаны для нейтральной молеку
-лы ArC. Ввиду
- []
-
-
-Overfull \hbox (19.69897pt too wide) in paragraph at lines 281--282
-\T2A/cmr/m/up/12 крайне слабой связанности этого соединения включение высоко во
-збужденных состояний
- []
-
-
-Overfull \hbox (21.16742pt too wide) in paragraph at lines 281--282
-\T2A/cmr/m/up/12 является необходимым условием правильного определения термодин
-амических функций.
- []
-
-
-Overfull \hbox (38.5313pt too wide) in paragraph at lines 281--282
-\T2A/cmr/m/up/12 В рамках SA-CASSCF/MRACPF2a расчета на сетке межъядерных расст
-ояний, включающей
+Overfull \hbox (7.30515pt too wide) in paragraph at lines 291--291
+[]\T2A/cmr/bx/n/14.4 Метод са-мо-со-гла-со-ван-но-го по-ля в пол-ном ак-тив-ном
+ про-стран-
  []
 
 
 
 [11]
-Overfull \hbox (61.79283pt too wide) in paragraph at lines 292--293
-[]\T2A/cmr/m/up/12 Порядковый номер электронного состояния конкретной мультипле
-тности и пространственной
- []
-
-
-Overfull \hbox (21.75475pt too wide) in paragraph at lines 292--293
-\T2A/cmr/m/up/12 симметрии (терма) будем обозначать цифрой в скобках, указываем
-ой перед его символом.
- []
-
-
-Overfull \hbox (19.96008pt too wide) in paragraph at lines 292--293
-\T2A/cmr/m/up/12 критически важные для последующего расчета термодинамических ф
-ункций, включение
- []
-
-
-Overfull \hbox (24.75677pt too wide) in paragraph at lines 292--293
-\T2A/cmr/m/up/12 предотвратить искусственное нарушение пространственной симметр
-ии волновой функции
- []
-
-
-Overfull \hbox (6.32034pt too wide) in paragraph at lines 292--293
-\T2A/cmr/m/up/12 и обеспечить корректные (физически оправданные) числа заселенн
-ости молекулярных
- []
-
-
-Overfull \hbox (17.95454pt too wide) in paragraph at lines 294--295
-\T2A/cmr/m/up/12 энергии в направлении уменьшения межъядерного расстояния. Моле
-кулярные орбитали
- []
-
-
-Overfull \hbox (33.73032pt too wide) in paragraph at lines 294--295
-\T2A/cmr/m/up/12 из ранее рассчитанной точки повторно использовались в качестве
- начального приближения.
- []
-
-
-Overfull \hbox (21.81999pt too wide) in paragraph at lines 294--295
-\T2A/cmr/m/up/12 активного пространства и упрощает использование данных неприво
-димых представлений
- []
-
-
-Overfull \hbox (48.56435pt too wide) in paragraph at lines 294--295
-\T2A/cmr/m/up/12 для построения пространства активных орбиталей. Результаты, по
-лученные с использованием
- []
-
-
 
 [12]
 
-LaTeX Warning: Citation `numerov' on page 13 undefined on input line 302.
-
-
-Overfull \hbox (1.41473pt too wide) in paragraph at lines 302--303
-\T2A/cmr/m/up/12 статистической физики с включением стат. суммы, получение кото
-рой подразумевает
- []
-
-
-Overfull \hbox (39.11443pt too wide) in paragraph at lines 302--303
-\T2A/cmr/m/up/12 механическом уровне потенциальных кривых к полному набору вращ
-ательно-колебательных
- []
-
-
-Overfull \hbox (11.67455pt too wide) in paragraph at lines 302--303
-\T2A/cmr/m/up/12 итерационным методом Нумерова [[]]. Волновая функция $\OML/cmm
-/m/it/12  $ \T2A/cmr/m/up/12 раскладывается на угловую
- []
-
-
-Overfull \hbox (36.43456pt too wide) in paragraph at lines 302--303
-\T2A/cmr/m/up/12 части и радиальную, последняя находиться из решения радиальног
-о уравнения Шредингера
- []
-
-
-Overfull \hbox (13.64417pt too wide) in paragraph at lines 302--303
-[]\T2A/cmr/m/up/12 3.6[], включающего радиальную зависимость ППЭ $\OML/cmm/m/it
-/12 U\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 )$\T2A/cmr/m/up/12 . Вы
-сокоэффективным подходом
- []
-
-
-Overfull \hbox (30.63042pt too wide) in paragraph at lines 311--312
-\T2A/cmr/m/up/12 численное интегрирование уравнения наружу от малых и внутрь от
- больших межъядерных
- []
-
-
-Overfull \hbox (11.96547pt too wide) in paragraph at lines 324--325
-\T2A/cmr/m/up/12 вращательно-колебательных уровней энергии, соответствующий дан
-ной потенциальной
- []
-
-
-Overfull \hbox (8.64502pt too wide) in paragraph at lines 324--325
-\T2A/cmr/m/up/12 кривой. Проводя данную процедуру независимо для всех полученны
-х ППЭ соединений
- []
-
-
-Overfull \hbox (37.04434pt too wide) in paragraph at lines 324--325
-\T2A/cmr/m/up/12 молекул. В дальнейшем ввиду развития вычислительных технологий
- расчет статистической
- []
-
-
-Overfull \hbox (12.03078pt too wide) in paragraph at lines 324--325
-\T2A/cmr/m/up/12 суммы прямым суммированием по полученному набору уровней не яв
-ляется проблемой. 
- []
-
-
-
 [13]
-Overfull \hbox (35.85136pt too wide) in paragraph at lines 330--332
-\T2A/cmr/m/up/12 распределено в объеме и выполняются условия локального термоди
-намического равновесия.
- []
-
-
-Overfull \hbox (17.07207pt too wide) in paragraph at lines 330--332
-\T2A/cmr/m/up/12 Далее будет обсуждаться метод расчета статистической суммы $\O
-ML/cmm/m/it/12 Q$\T2A/cmr/m/up/12 , энтропии $\OML/cmm/m/it/12 S[]$\T2A/cmr/m/u
-p/12 , прироста
- []
-
-
-LaTeX Warning: Reference `eq:funcs_trans' on page 14 undefined on input line 33
-7.
-
-
-Overfull \hbox (17.25179pt too wide) in paragraph at lines 337--338
-\T2A/cmr/m/up/12 внутримолекулярным движением можно ввести такое же разделение 
-для статистической
- []
-
-
-Overfull \hbox (20.41588pt too wide) in paragraph at lines 337--338
-\T2A/cmr/m/up/12 свойств газа []. Здесь $\OML/cmm/m/it/12 k$ \T2A/cmr/m/up/12 -
-- постоянная Больцмана, $\OML/cmm/m/it/12 R$ \T2A/cmr/m/up/12 -- универсальная 
-газовая постоянная,
- []
-
-
-Overfull \hbox (12.94444pt too wide) in paragraph at lines 348--349
-\T2A/cmr/m/up/12 набору вращательно-колебательных уровней энергии, каждый из ко
-торых определяется
+Overfull \hbox (9.7641pt too wide) in paragraph at lines 314--314
+[]\T2A/cmr/bx/n/14.4 Многорференсный ме-тод кон-фи-гу-ра-ци-он-но-го вза-и-мо-д
+ей-ствия 
  []
 
 
 
 [14]
 
-LaTeX Warning: Citation `malcev_diatom' on page 15 undefined on input line 358.
-
-
-
-Overfull \hbox (29.09666pt too wide) in paragraph at lines 379--380
-\T2A/cmr/m/up/12 состояний двухатомной молекулы, полученных экспериментально ил
-и методами квантовой
- []
-
-
-Overfull \hbox (5.11295pt too wide) in paragraph at lines 379--380
-\T2A/cmr/m/up/12 химии, расчет температурных зависимостей термодинамических фун
-кций может быть
- []
-
-
-
 [15]
 
-LaTeX Warning: Citation `gasthermo' on page 16 undefined on input line 381.
+LaTeX Warning: Citation `numerov' on page 16 undefined on input line 335.
 
 
-Overfull \hbox (7.94492pt too wide) in paragraph at lines 381--382
-\T2A/cmr/m/up/12 веб-приложение Gas-Thermo [[]] для расчета термодинамических ф
-ункций двухатомных
- []
-
-
-Overfull \hbox (7.39056pt too wide) in paragraph at lines 381--382
-\T2A/cmr/m/up/12 ArC$[]$ в условиях масс спектрометрии с использованием индукти
-вно связанной плазмы.
- []
-
-
-Overfull \hbox (41.06808pt too wide) in paragraph at lines 381--382
-\T2A/cmr/m/up/12 Далее рассмотрим доступную в приложении реализацию озвученного
- ранее вычислительного
- []
-
-
-Overfull \hbox (26.2588pt too wide) in paragraph at lines 383--384
-\T2A/cmr/m/up/12 возможно благодаря веб-интерфейсу Gas-Thermo. В рамках первой 
-программы проводится
- []
-
-
-Overfull \hbox (13.58119pt too wide) in paragraph at lines 383--384
-\T2A/cmr/m/up/12 аппроксимация имеющехся точек ППЭ EMO-потенциалом []3.14[], це
-лью которой является
- []
-
-
-LaTeX Warning: Citation `joint_approx' on page 16 undefined on input line 394.
-
-
-Overfull \hbox (20.54921pt too wide) in paragraph at lines 394--395
-\T2A/cmr/m/up/12 описанному в работе посвященной ArF$[]$ [[]], удается добиться
- характерной относительной
- []
-
-
-Overfull \hbox (12.84656pt too wide) in paragraph at lines 394--395
-\T2A/cmr/m/up/12 при совмещении которых получаются непрерывные кривые температу
-рной зависимости
+Overfull \hbox (22.3273pt too wide) in paragraph at lines 335--336
+\T2A/cmr/m/n/12 механическом уровне по-тен-ци-аль-ных кри-вых к пол-но-му на-бо
+-ру вращательно-колебательных
  []
 
 
 
 [16]
-<images/gasthermo_level.png, id=268, 941.01563pt x 450.9347pt>
-File: images/gasthermo_level.png Graphic file (type png)
-<use images/gasthermo_level.png>
-Package pdftex.def Info: images/gasthermo_level.png  used on input line 405.
-(pdftex.def)             Requested size: 455.24411pt x 218.1526pt.
-<images/gasthermo_thermo.png, id=270, 947.79094pt x 599.99156pt>
-File: images/gasthermo_thermo.png Graphic file (type png)
-<use images/gasthermo_thermo.png>
-Package pdftex.def Info: images/gasthermo_thermo.png  used on input line 411.
-(pdftex.def)             Requested size: 455.24411pt x 288.18494pt.
-
-
-[17 <./images/gasthermo_level.png>]
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <17.28> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 415.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <17.28> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 415.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 415.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 415.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 415.
-
-
-Overfull \hbox (15.55476pt too wide) in paragraph at lines 420--421
-\T2A/cmr/m/up/12 глубина потенциальных ям возбужденных состояний, показанных сп
-лошными кривыми,
+Overfull \hbox (31.61954pt too wide) in paragraph at lines 357--358
+[]\T2A/cmr/m/n/12 Результатом ра-бо-ты ал-го-рит-ма для неко-то-рой за-дан-ной 
+ППЭ яв-ля-ет-ся на-бор вращательно-
  []
 
 
-Overfull \hbox (5.50453pt too wide) in paragraph at lines 422--423
-[]\T2A/cmr/m/up/12 Поведение каждого состояния определяется его доминирующей ко
-нфигурационной
- []
+LaTeX Warning: Reference `eq:funcs_trans' on page 17 undefined on input line 37
+0.
 
 
-Overfull \hbox (4.61757pt too wide) in paragraph at lines 422--423
-\T2A/cmr/m/up/12 заселенностей орбиталей $\OML/cmm/m/it/12 p[]$ \T2A/cmr/m/up/1
-2 и $\OML/cmm/m/it/12 p[]$\T2A/cmr/m/up/12 . Краткий анализ этих функций дает п
-риблизительное
- []
+
+[17]
+
+LaTeX Warning: Citation `malcev_diatom' on page 18 undefined on input line 391.
 
 
-Overfull \hbox (6.53781pt too wide) in paragraph at lines 422--423
-\T2A/cmr/m/up/12 состояний. Отметим, что во всех случаях орбиталь C(2s) являетс
-я дважды заселенной,
- []
 
-
-Overfull \hbox (6.93835pt too wide) in paragraph at lines 424--425
-[]\T2A/cmr/m/up/12 Первый предел характеризуется тремя состояниями -- $[]\OT1/c
-mr/m/n/12 ^^E[]$\T2A/cmr/m/up/12 , $[]\OT1/cmr/m/n/12 ^^E[]$ \T2A/cmr/m/up/12 и
- $[]\OT1/cmr/m/n/12 ^^F[]$\T2A/cmr/m/up/12 . Как отмечено
- []
-
-
-Overfull \hbox (4.67387pt too wide) in paragraph at lines 424--425
-\T2A/cmr/m/up/12 слабее, приводя к более выраженной потенциальной яме. Аналогич
-ная интерпретация
- []
-
-
-Overfull \hbox (26.6076pt too wide) in paragraph at lines 424--425
-\T2A/cmr/m/up/12 орбиталью Ar(3p$[]$) взаимодействие между зарядом ядра аргона 
-и электронной плотностью
- []
-
-
-Overfull \hbox (41.91466pt too wide) in paragraph at lines 424--425
-\T2A/cmr/m/up/12 углерода является наиболее сильным. Поэтому состояния $\OT1/cm
-r/m/n/12 (1)[]^^F[]$ \T2A/cmr/m/up/12 и $\OT1/cmr/m/n/12 (1)[]^^E$ \T2A/cmr/m/u
-p/12 характеризующийся
+Overfull \hbox (11.23267pt too wide) in paragraph at lines 391--394
+[]\T2A/cmr/m/n/12 Нахождение тем-пе-ра-тур-ной за-ви-си-мо-сти внут-рен-них ча-
+стей тер-мо-ди-на-ми-че-ских функ-
  []
 
 
 
-[18 <./images/gasthermo_thermo.png>]
-Overfull \hbox (7.70023pt too wide) in paragraph at lines 426--427
-\T2A/cmr/m/up/12 молекулярных орбиталях $\OML/cmm/m/it/12 p[]$\T2A/cmr/m/up/12 
-, с дважды занятой орбиталью Ar(3p$[]$) и одним электроном
- []
+[18]
 
-
-Overfull \hbox (57.6053pt too wide) in paragraph at lines 426--427
-\T2A/cmr/m/up/12 в дополнительной панели рисунка []3[]. Совокупное влияние этих
- состояний на термодинамические
- []
-
-
-Overfull \hbox (28.95537pt too wide) in paragraph at lines 426--427
-\T2A/cmr/m/up/12 и $\OT1/cmr/m/n/12 (2)[]^^F[]$ \T2A/cmr/m/up/12 образуют допол
-нительные ямы вследствие избегаемых пересечений с состояниями
- []
-
-
-Overfull \hbox (18.43788pt too wide) in paragraph at lines 428--429
-\T2A/cmr/m/up/12 (заселенности молекулярных орбиталей) состояний для $\OML/cmm/
-m/it/12 R \OT1/cmr/m/n/12 = 3\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$ []\T2A/cmr/m/
-up/12 A. В случае соответствия
- []
-
-
-Overfull \hbox (5.50446pt too wide) in paragraph at lines 428--429
-\T2A/cmr/m/up/12 нескольких конфигураций одному состоянию подразумевается их ра
-внозначный вклад
- []
-
-
-Overfull \hbox (12.1286pt too wide) in paragraph at lines 428--429
-\T2A/cmr/m/up/12 в волновую функцию, что также указывает на присутствующее влия
-ние статистической
- []
-
-<images/states_all.png, id=291, 794.97pt x 578.16pt>
-File: images/states_all.png Graphic file (type png)
-<use images/states_all.png>
-Package pdftex.def Info: images/states_all.png  used on input line 432.
-(pdftex.def)             Requested size: 455.24411pt x 331.09846pt.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 439.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 439.
-
-Overfull \hbox (28.83647pt too wide) in paragraph at lines 480--481
-[]\T2A/cmr/m/up/12 В этом разделе мы сравниваем полученные результаты с предыду
-щими теоретическими
- []
-
-
-Overfull \hbox (21.0586pt too wide) in paragraph at lines 480--481
-\T2A/cmr/m/up/12 исследованиями и экспериментальными данными из [[]]. Спектроск
-опические постоянные
- []
-
-
-Overfull \hbox (11.05177pt too wide) in paragraph at lines 480--481
-\T2A/cmr/m/up/12 затем использованы совместно с первыми двумя уровнями рассчита
-нного вращательно-
- []
+LaTeX Warning: Citation `opi' on page 19 undefined on input line 417.
 
 
 
 [19]
-Overfull \hbox (7.72346pt too wide) in paragraph at lines 484--485
-\T2A/cmr/m/up/12 по большинству параметров с потенциалом из [[]], который был в
-осстановлен инверсией
- []
-
-
-Overfull \hbox (11.80243pt too wide) in paragraph at lines 484--485
-\T2A/cmr/m/up/12 подробное сравнение предыдущих результатов было приведено в [[
-]], также выделяющее
- []
-
-
-Overfull \hbox (13.6623pt too wide) in paragraph at lines 484--485
-\T2A/cmr/m/up/12 общую тенденцию последовательного углубления потенциальных ям 
-при использовании
- []
-
-
-Overfull \hbox (10.94307pt too wide) in paragraph at lines 484--485
-\T2A/cmr/m/up/12 все более продвинутых методов. Сравнение потенциальной кривой 
-основного состояния
+Overfull \hbox (1.28027pt too wide) in paragraph at lines 439--440
+[]\T2A/cmr/m/n/12 Порядковый но-мер элек-трон-но-го со-сто-я-ния кон-крет-ной м
+уль-ти-плет-но-сти и про-стран-
  []
 
 
 
-[20 <./images/states_all.png>]
-Overfull \hbox (25.89896pt too wide) in paragraph at lines 486--487
-\T2A/cmr/m/up/12 ввиду большего числа молекулярных орбиталей дают более глубоки
-е ямы и отличающиеся
+[20]
+
+[21]
+
+LaTeX Warning: Citation `joint_approx' on page 22 undefined on input line 461.
+
+
+Overfull \hbox (6.49152pt too wide) in paragraph at lines 461--462
+[]\T2A/cmr/m/n/12 Общий на-бор из уров-ней всех за-гру-жен-ных ППЭ пе-ре-да-ет-
+ся в мо-дуль Partion Function,
  []
 
-
-Overfull \hbox (4.32805pt too wide) in paragraph at lines 486--487
-\T2A/cmr/m/up/12 получены ППЭ 15-и состояний, из которых $[]\OT1/cmr/m/n/12 ^^E
-$\T2A/cmr/m/up/12 , $[]\OT1/cmr/m/n/12 ^^A[]$\T2A/cmr/m/up/12 , $[]\OT1/cmr/m/n
-/12 ^^A[]$\T2A/cmr/m/up/12 , $[]\OT1/cmr/m/n/12 ^^F[]\OML/cmm/m/it/12 =[]\OT1/c
-mr/m/n/12 ^^F[]$ \T2A/cmr/m/up/12 и $[]\OT1/cmr/m/n/12 ^^F[]\OML/cmm/m/it/12 =[
-]\OT1/cmr/m/n/12 ^^F[]$ \T2A/cmr/m/up/12 являются
- []
-
-
-Overfull \hbox (3.1971pt too wide) in paragraph at lines 486--487
-\T2A/cmr/m/up/12 слабосвязанными в интервале расстояний 2.5--5 []A. Состояния $
-\OT1/cmr/m/n/12 (1)[]^^A$ \T2A/cmr/m/up/12 и $\OT1/cmr/m/n/12 (2)[]^^F[]$ \T2A/
-cmr/m/up/12 обладают
- []
-
-<images/compare.png, id=312, 867.24pt x 578.16pt>
-File: images/compare.png Graphic file (type png)
-<use images/compare.png>
-Package pdftex.def Info: images/compare.png  used on input line 490.
-(pdftex.def)             Requested size: 409.71692pt x 273.14676pt.
-
-Overfull \hbox (52.97916pt too wide) in paragraph at lines 497--521
- [][] 
- []
-
-
-
-[21 <./images/compare.png>]
-Overfull \hbox (33.40387pt too wide) in paragraph at lines 531--532
-\T2A/cmr/m/up/12 состояний в температурную зависимость статистической суммы при
- высоких температурах.
- []
-
-
-Overfull \hbox (33.82407pt too wide) in paragraph at lines 531--532
-\T2A/cmr/m/up/12 На рисунке []5[] дополнительно изображены кривые термодинамиче
-ских функций, нанесенные
- []
-
-
-Overfull \hbox (23.94104pt too wide) in paragraph at lines 531--532
-\T2A/cmr/m/up/12 кривая включает в расчет статистической суммы энергетические у
-ровни дополнительного
- []
-
-
-Overfull \hbox (34.76355pt too wide) in paragraph at lines 531--532
-\T2A/cmr/m/up/12 возбужденного состояния. Соответственно самая высокая (сплошна
-я) кривая соответствует
- []
-
-
-Overfull \hbox (22.45053pt too wide) in paragraph at lines 533--534
-\T2A/cmr/m/up/12 графике термодинамической функции $\OML/cmm/m/it/12 X$\T2A/cmr
-/m/up/12 . В таблице []3[] даны значения данного отклонения
- []
-
-
-Overfull \hbox (1.81715pt too wide) in paragraph at lines 533--534
-\T2A/cmr/m/up/12 показывающую особую чувствительность $\OML/cmm/m/it/12 C[]$ \T
-2A/cmr/m/up/12 и $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 H[]$ \T2A/cmr/m/up/12 к у
-чету возбужденных состояний. 
- []
-
+<images/gasthermo_level.png, id=308, 1044.90375pt x 554.07pt>
+File: images/gasthermo_level.png Graphic file (type png)
+<use images/gasthermo_level.png>
+Package pdftex.def Info: images/gasthermo_level.png  used on input line 472.
+(pdftex.def)             Requested size: 377.62642pt x 200.24284pt.
 
 
 [22]
-<images/thermo.png, id=347, 939.51pt x 722.7pt>
-File: images/thermo.png Graphic file (type png)
-<use images/thermo.png>
-Package pdftex.def Info: images/thermo.png  used on input line 560.
-(pdftex.def)             Requested size: 455.24411pt x 350.18927pt.
-<images/compare_thermo.png, id=348, 939.51pt x 657.657pt>
-File: images/compare_thermo.png Graphic file (type png)
-<use images/compare_thermo.png>
-Package pdftex.def Info: images/compare_thermo.png  used on input line 565.
-(pdftex.def)             Requested size: 455.24411pt x 318.67224pt.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 572.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 572.
-
-Overfull \hbox (0.68547pt too wide) in paragraph at lines 612--625
-[][] 
- []
+<images/gasthermo_thermo.png, id=317, 1056.19594pt x 635.37375pt>
+File: images/gasthermo_thermo.png Graphic file (type png)
+<use images/gasthermo_thermo.png>
+Package pdftex.def Info: images/gasthermo_thermo.png  used on input line 478.
+(pdftex.def)             Requested size: 377.62642pt x 227.16377pt.
 
 
+[23
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.482     \newpage
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.482     \newpage
+                   <./images/gasthermo_level.png> <./images/gasthermo_thermo.pn
+g>]
 
-[23 <./images/thermo.png>]
-
-LaTeX Warning: Reference `fig:states_all2' on page 24 undefined on input line 6
-35.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 483.
 
 
-Overfull \hbox (4.94434pt too wide) in paragraph at lines 635--636
-[]\T2A/cmr/m/up/12 Для молекулы ArC были получены состояния 6-ти различных пред
-елов, на рисунке
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 483.
 
 
-Overfull \hbox (5.94965pt too wide) in paragraph at lines 635--636
-[] \T2A/cmr/m/up/12 изображены лишь связанные, а также по одному состоянию на о
-ставшиеся пределы.
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 483.
 
 
 
-[24 <./images/compare_thermo.png>]
-
-LaTeX Warning: Reference `tab:spectroscopic2' on page 25 undefined on input lin
-e 646.
-
-
-Overfull \hbox (10.44931pt too wide) in paragraph at lines 646--647
-\T2A/cmr/m/up/12 спин-орбитального взаимодействия. Полученные данные спектроско
-пических констант
- []
+[24]
+<images/states_all.png, id=333, 794.97pt x 578.16pt>
+File: images/states_all.png Graphic file (type png)
+<use images/states_all.png>
+Package pdftex.def Info: images/states_all.png  used on input line 500.
+(pdftex.def)             Requested size: 472.03123pt x 343.30812pt.
 
 
-LaTeX Warning: Citation `Sohlberg' on page 25 undefined on input line 648.
+[25]
+
+[26
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.544 
+       <./images/states_all.png>]
+
+[27
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.546 
+      ]
+<images/compare.png, id=361, 867.24pt x 578.16pt>
+File: images/compare.png Graphic file (type png)
+<use images/compare.png>
+Package pdftex.def Info: images/compare.png  used on input line 555.
+(pdftex.def)             Requested size: 472.03123pt x 314.68954pt.
 
 
-LaTeX Warning: Reference `tab:spectroscopic2' on page 25 undefined on input lin
-e 648.
-
-
-LaTeX Warning: Reference `tab:limits2' on page 25 undefined on input line 648.
-
-
-LaTeX Warning: Citation `Sohlberg' on page 25 undefined on input line 648.
-
-
-Overfull \hbox (23.25455pt too wide) in paragraph at lines 648--649
-\T2A/cmr/m/up/12 затрагивающий ППЭ Ван дер Вальсовой молекулы ArC на уровне MRC
-I. Представленные
- []
-
-
-Overfull \hbox (1.5644pt too wide) in paragraph at lines 648--649
-\T2A/cmr/m/up/12 результаты для связанного состояния $\OT1/cmr/m/n/12 (2)[]^^E$
- \T2A/cmr/m/up/12 также сравниваются в таблице [], данные
- []
-
-
-Overfull \hbox (14.31488pt too wide) in paragraph at lines 648--649
-\T2A/cmr/m/up/12 текущей работы лежат хорошем согласии по основным спектроскопи
-ческим константам.
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \hbox (43.75829pt too wide) in paragraph at lines 707--717
+[28]
+Overfull \hbox (16.11606pt too wide) in paragraph at lines 563--587
  [][] 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[29
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.590 
+       <./images/compare.png>]
 
+[30
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.598 
+      ]
 
-[25]
-Overfull \hbox (28.44402pt too wide) in paragraph at lines 727--728
-\T2A/cmr/m/up/12 высоковозбужденных состояний на результаты, особенно при более
- высоких температурах,
- []
+[31
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.620     	
+           ]
+<images/thermo.png, id=406, 939.51pt x 722.7pt>
+File: images/thermo.png Graphic file (type png)
+<use images/thermo.png>
+Package pdftex.def Info: images/thermo.png  used on input line 626.
+(pdftex.def)             Requested size: 472.03123pt x 363.10248pt.
+<images/compare_thermo.png, id=407, 939.51pt x 657.657pt>
+File: images/compare_thermo.png Graphic file (type png)
+<use images/compare_thermo.png>
+Package pdftex.def Info: images/compare_thermo.png  used on input line 631.
+(pdftex.def)             Requested size: 472.03123pt x 330.42326pt.
 
-
-Overfull \hbox (67.43187pt too wide) in paragraph at lines 727--728
-\T2A/cmr/m/up/12 типичных для масс-спектрометрии с ICP. Следовательно, точное о
-пределение термодинамических
- []
-
-
-Overfull \hbox (2.0729pt too wide) in paragraph at lines 727--728
-\T2A/cmr/m/up/12 как расчеты при 6500 K и выше требуют всех 21 состояний двух п
-ределов диссоциации
- []
-
-
-Overfull \hbox (35.30072pt too wide) in paragraph at lines 735--736
-[]\T2A/cmr/m/up/12 Здесь необходимо написать приложение, которое вы должны прид
-умать самостоятельно. 
- []
-
-
-
-[26] (./main.bbl
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-15.
-
-(d:/Programs/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-Underfull \hbox (badness 1117) in paragraph at lines 28--34
-[]\T2A/cmr/m/up/12 Basis-set con-ver-gence of cor-re-lated cal-cu-la-tions on w
-a-ter / Trygve Hel-gaker,
- []
-
-
-
-[27]
-Underfull \hbox (badness 10000) in paragraph at lines 152--158
-[]\T2A/cmr/m/it/12 Ivanic, Joseph\T2A/cmr/m/up/12 . Di-rect con-fig-u-ra-tion i
-n-ter-ac-tion and mul-ti-con-fig-u-ra-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--158
-\T2A/cmr/m/up/12 tional self-consistent-field method for mul-ti-ple ac-tive spa
-ces with vari-
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 152--158
-\T2A/cmr/m/up/12 able oc-cu-pa-tions. I. Method / Joseph Ivanic. ---  Vol. 119,
- no. 18. ---
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--158
-\T2A/cmr/m/up/12 Pp. 9364--9376. []$\T2A/cmtt/m/n/12 https : / / pubs . aip . o
-rg / jcp / article / 119 / 18 / 9364 / 446614 /
- []
-
-)
-
-[28]
-
-[29]
-
-[30]
-
-[31{d:/Programs/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
-nc}]
 
 [32]
 
-[33]
+[33
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.634 
+       <./images/thermo.png>]
 
-[34] (./main.aux)
+[34
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.676 
+       <./images/compare_thermo.png>]
+
+[35{d:/Programs/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
+nc}
+pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.694 
+      ]
+
+[36
+pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.696     \newpage
+                  ]
+
+[37]
+<images/states_all2.png, id=451, 874.467pt x 604.8999pt>
+File: images/states_all2.png Graphic file (type png)
+<use images/states_all2.png>
+Package pdftex.def Info: images/states_all2.png  used on input line 721.
+(pdftex.def)             Requested size: 472.03123pt x 326.53032pt.
+
+
+[38
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.741 
+       <./images/states_all2.png>]
+File: images/thermo.png Graphic file (type png)
+<use images/thermo.png>
+Package pdftex.def Info: images/thermo.png  used on input line 750.
+(pdftex.def)             Requested size: 472.03123pt x 363.10248pt.
+
+
+[39
+pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.753 
+      ]
+
+[40
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.796 
+      ]
+Overfull \hbox (19.4555pt too wide) in paragraph at lines 799--816
+ [][] 
+ []
+
+
+
+[41
+pdfTeX warning (ext4): destination with the same identifier (name{table.7}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.818 
+      ]
+
+[42
+pdfTeX warning (ext4): destination with the same identifier (name{table.8}) has
+ been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.819     \newpage
+                  ]
+
+[43]
+
+[44] (./main.bbl
+Underfull \hbox (badness 1509) in paragraph at lines 60--68
+\T2A/cmr/m/n/12 for <span style="font-variant:small-caps;">ArN</span> and <span
+ style="font-
+ []
+
+
+
+[45])
+
+[46] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 38D365E818B386839A7762CBD69BE980;6899.
+(rerunfilecheck)             Checksum: 2D3F286C5782FB31FB51C9BA6C20BF8E;6591.
  ) 
 Here is how much of TeX's memory you used:
- 17224 strings out of 473201
- 275695 string characters out of 5715610
- 743883 words of memory out of 5000000
- 39954 multiletter control sequences out of 15000+600000
- 594439 words of font info for 132 fonts, out of 8000000 for 9000
+ 13589 strings out of 473201
+ 216337 string characters out of 5715610
+ 652707 words of memory out of 5000000
+ 36450 multiletter control sequences out of 15000+600000
+ 586498 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,21n,79p,2340b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,21n,79p,2340b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 ><d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
@@ -2156,12 +1221,11 @@ e/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/Programs/texlive
 024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/Programs/texlive/20
 24/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><d:/Programs/texlive/202
 4/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/Programs/texlive/2024
-/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><d:/Programs/texlive/2024/
-texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (34 pages, 1136721 bytes).
+/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on main.pdf (46 pages, 1274791 bytes).
 PDF statistics:
- 588 PDF objects out of 1000 (max. 8388607)
- 493 compressed objects within 5 object streams
- 127 named destinations out of 1000 (max. 500000)
- 232 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 678 PDF objects out of 1000 (max. 8388607)
+ 544 compressed objects within 6 object streams
+ 147 named destinations out of 1000 (max. 500000)
+ 209 words of extra memory for PDF output out of 10000 (max. 10000000)
 

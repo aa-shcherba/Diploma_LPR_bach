@@ -7,12 +7,13 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{neese_orca}
+\bibitem{gasthermo}
 \selectlanguageifdefined{english}
-\BibEmph{Neese,~Frank}. The {ORCA} program system~/ Frank~Neese. ---
-\newblock Vol.~2, no.~1. ---
-\newblock Pp.~73--78. \BibUrl{
-  https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.81}.
+\BibEmph{Maltsev,~M~A}. Computation of molecular spectra and thermodynamic
+  functions for diatomic ideal gases using interatomic potentials~/
+  M~A~Maltsev, I~V~Morozov, E~L~Osina. ---
+\newblock Vol. 1787, no.~1. ---
+\newblock P.~012009.
 
 \bibitem{gdanitz_acpf}
 \selectlanguageifdefined{english}
@@ -23,14 +24,36 @@
 \newblock Vol. 143, no.~5. ---
 \newblock Pp.~413--420.
 
-\bibitem{helgaker_cbs}
+\bibitem{neese_orca}
 \selectlanguageifdefined{english}
-Basis-set convergence of correlated calculations on water~/ Trygve~Helgaker,
-  Wim~Klopper, Henrik~Koch, Jozef~Noga~// \BibEmph{The Journal of Chemical
-  Physics}. ---
-\newblock 1997. ---
-\newblock Vol. 106, no.~23. ---
-\newblock Pp.~9639--9646.
+\BibEmph{Neese,~Frank}. The {ORCA} program system~/ Frank~Neese. ---
+\newblock Vol.~2, no.~1. ---
+\newblock Pp.~73--78.
+
+\bibitem{tuttle}
+\selectlanguageifdefined{english}
+Interactions of
+  C$^{\textrm{+}}$($^{\textrm{2}}$\textbf{\textit{P$_{\textrm{J}}$}}) with rare
+  gas atoms: incipient chemical interactions, potentials and transport
+  coefficients~/ William~D.~Tuttle, Rebecca~L.~Thorington, Larry~A.~Viehland
+  et~al. ---
+\newblock Vol. 376, no. 2115. ---
+\newblock P.~20170156.
+
+\bibitem{hillier}
+\selectlanguageifdefined{english}
+The potential energy curves of {ArC}+~/ I.~H.~Hillier, M.~F.~Guest, A.~Ding
+  et~al. ---
+\newblock Vol.~70, no.~2. ---
+\newblock Pp.~864--869.
+
+\bibitem{Maltsev_TVT_Ar2_en}
+\selectlanguageifdefined{english}
+\BibEmph{Maltsev,~MA}. Thermodynamic Properties of Ar2+ and Ar2 Argon Dimers~/
+  MA~Maltsev, IV~Morozov, EL~Osina~// \BibEmph{High Temp.} ---
+\newblock 2019. ---
+\newblock Vol.~57, no.~1. ---
+\newblock Pp.~37--40.
 
 \bibitem{Maltsev_ArN_en}
 \selectlanguageifdefined{english}
@@ -41,8 +64,39 @@ Ab initio calculations of the interaction potentials and thermodynamic
   style="font-variant:small-caps;"{\textgreater}{ArN}{\textless}/span{\textgreater}$^{\textrm{+}}$~/
   Maxim~A.~Maltsev, Svetlana~A.~Aksenova, Igor~V.~Morozov et~al. ---
 \newblock Vol.~44, no.~12. ---
-\newblock Pp.~1189--1198. \BibUrl{
-  https://onlinelibrary.wiley.com/doi/10.1002/jcc.27078}.
+\newblock Pp.~1189--1198.
+
+\bibitem{Maltsev_TVT_ArO_en}
+\selectlanguageifdefined{english}
+\BibEmph{Maltsev,~MA}. Thermodynamic Functions of ArO and ArO+~/ MA~Maltsev,
+  IV~Morozov, EL~Osina~// \BibEmph{High Temp.} ---
+\newblock 2020. ---
+\newblock Vol.~58, no.~2. ---
+\newblock Pp.~184--189.
+
+\bibitem{Maltsev_TVT_ArH_en}
+\selectlanguageifdefined{english}
+\BibEmph{Maltsev,~MA}. Thermodynamic Properties of ArH+ and ArH~/ MA~Maltsev,
+  IV~Morozov, EL~Osina~// \BibEmph{High Temp.} ---
+\newblock 2019. ---
+\newblock Vol.~57, no.~3. ---
+\newblock Pp.~335--337.
+
+\bibitem{Maltsev_gasthermo}
+\selectlanguageifdefined{english}
+Thermodynamic Simulation of the Composition of the Major Background Ions in
+  Low-Temperature (“Cold”) Inductively Coupled Plasma~/ A.~A.~Pupyshev,
+  P.~V.~Zaitceva, M.~Yu.~Burylin et~al. ---
+\newblock Vol.~79, no.~8. ---
+\newblock Pp.~1038--1048.
+
+\bibitem{pousse_thermodynamic_1996}
+\selectlanguageifdefined{english}
+Thermodynamic and transport properties of argon/carbon and helium/carbon
+  mixtures in fullerene synthesis~/ Jerome~Pousse, Benjamin~Chervy,
+  Jean-Francois~Bilodeau, Alain~Gleizes. ---
+\newblock Vol.~16, no.~4. ---
+\newblock Pp.~605--634.
 
 \bibitem{le_roy_betafit}
 \selectlanguageifdefined{english}
@@ -50,43 +104,14 @@ Ab initio calculations of the interaction potentials and thermodynamic
   potentials to selected analytic functions~/ Robert~J.~Le~Roy, Asen~Pashov.
   ---
 \newblock Vol. 186. ---
-\newblock Pp.~210--220. \BibUrl{
-  https://linkinghub.elsevier.com/retrieve/pii/S0022407316300966}.
+\newblock Pp.~210--220.
 
 \bibitem{le_roy_level}
 \selectlanguageifdefined{english}
 \BibEmph{Le~Roy,~Robert~J.} {LEVEL}: A computer program for solving the radial
   Schrödinger equation for bound and quasibound levels~/ Robert~J.~Le~Roy. ---
 \newblock Vol. 186. ---
-\newblock Pp.~167--178. \BibUrl{
-  https://linkinghub.elsevier.com/retrieve/pii/S0022407316300978}.
-
-\bibitem{tuttle}
-\selectlanguageifdefined{english}
-Interactions of C$^{\textrm{+}}$ ($^{\textrm{2}}$ \textbf{ \textit{
-  P$_{\textrm{J}}$ } } ) with rare gas atoms: incipient chemical interactions,
-  potentials and transport coefficients~/ William~D.~Tuttle,
-  Rebecca~L.~Thorington, Larry~A.~Viehland et~al. ---
-\newblock Vol. 376, no. 2115. ---
-\newblock P.~20170156. \BibUrl{
-  https://royalsocietypublishing.org/doi/10.1098/rsta.2017.0156}.
-
-\bibitem{hillier}
-\selectlanguageifdefined{english}
-The potential energy curves of {ArC}+~/ I.~H.~Hillier, M.~F.~Guest, A.~Ding
-  et~al. ---
-\newblock Vol.~70, no.~2. ---
-\newblock Pp.~864--869. \BibUrl{
-  https://pubs.aip.org/jcp/article/70/2/864/88906/The-potential-energy-curves-of-ArC}.
-
-\bibitem{froudakis}
-\selectlanguageifdefined{english}
-Binding energies and structures of C+Ar (n=1–5), clusters from first
-  principles~/ G.E.~Froudakis, G.S.~Fanourgakis, S.C.~Farantos, S.S.~Xantheas.
-  ---
-\newblock Vol. 294, no.~1. ---
-\newblock Pp.~109--116. \BibUrl{
-  https://linkinghub.elsevier.com/retrieve/pii/S0009261498008446}.
+\newblock Pp.~167--178.
 
 \bibitem{Gurvich}
 \selectlanguageifdefined{english}
@@ -114,38 +139,30 @@ Binding energies and structures of C+Ar (n=1–5), clusters from first
 \newblock Vol.~46, no.~5. ---
 \newblock Pp.~1059--1063.
 
-\bibitem{Maltsev_TVT_ArH_en}
+\bibitem{helgaker_cbs}
 \selectlanguageifdefined{english}
-\BibEmph{Maltsev,~MA}. Thermodynamic Properties of ArH+ and ArH~/ MA~Maltsev,
-  IV~Morozov, EL~Osina~// \BibEmph{High Temp.} ---
-\newblock 2019. ---
-\newblock Vol.~57, no.~3. ---
-\newblock Pp.~335--337.
+Basis-set convergence of correlated calculations on water~/ Trygve~Helgaker,
+  Wim~Klopper, Henrik~Koch, Jozef~Noga~// \BibEmph{The Journal of Chemical
+  Physics}. ---
+\newblock 1997. ---
+\newblock Vol. 106, no.~23. ---
+\newblock Pp.~9639--9646.
 
-\bibitem{Maltsev_TVT_ArO_en}
+\bibitem{froudakis}
 \selectlanguageifdefined{english}
-\BibEmph{Maltsev,~MA}. Thermodynamic Functions of ArO and ArO+~/ MA~Maltsev,
-  IV~Morozov, EL~Osina~// \BibEmph{High Temp.} ---
-\newblock 2020. ---
-\newblock Vol.~58, no.~2. ---
-\newblock Pp.~184--189.
+Binding energies and structures of C+Ar (n=1–5), clusters from first
+  principles~/ G.E.~Froudakis, G.S.~Fanourgakis, S.C.~Farantos, S.S.~Xantheas.
+  ---
+\newblock Vol. 294, no.~1. ---
+\newblock Pp.~109--116.
 
-\bibitem{Maltsev_TVT_Ar2_en}
+\bibitem{Sohlberg}
 \selectlanguageifdefined{english}
-\BibEmph{Maltsev,~MA}. Thermodynamic Properties of Ar2+ and Ar2 Argon Dimers~/
-  MA~Maltsev, IV~Morozov, EL~Osina~// \BibEmph{High Temp.} ---
-\newblock 2019. ---
-\newblock Vol.~57, no.~1. ---
-\newblock Pp.~37--40.
-
-\bibitem{Maltsev_gasthermo}
-\selectlanguageifdefined{english}
-Thermodynamic Simulation of the Composition of the Major Background Ions in
-  Low-Temperature (“Cold”) Inductively Coupled Plasma~/ A.~A.~Pupyshev,
-  P.~V.~Zaitceva, M.~Yu.~Burylin et~al. ---
-\newblock Vol.~79, no.~8. ---
-\newblock Pp.~1038--1048. \BibUrl{
-  https://link.springer.com/10.1134/S1061934824700424}.
+\BibEmph{Sohlberg,~Karl}. On the strongly bound B3$\Pi$ state of the {CAr} van
+  der Waals complex: Bonding and predissociation~/ Karl~Sohlberg,
+  David~R.~Yarkony. ---
+\newblock Vol. 111, no.~7. ---
+\newblock Pp.~3070--3076.
 
 \bibitem{ormas}
 \selectlanguageifdefined{english}
@@ -153,7 +170,6 @@ Thermodynamic Simulation of the Composition of the Major Background Ions in
   multiconfigurational self-consistent-field method for multiple active spaces
   with variable occupations. I. Method~/ Joseph~Ivanic. ---
 \newblock Vol. 119, no.~18. ---
-\newblock Pp.~9364--9376. \BibUrl{
-  https://pubs.aip.org/jcp/article/119/18/9364/446614/Direct-configuration-interaction-and}.
+\newblock Pp.~9364--9376.
 
 \end{thebibliography}
