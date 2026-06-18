@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  18 JUN 2026 14:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  18 JUN 2026 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -814,17 +814,10 @@ Overfull \hbox (21.1865pt too wide) in paragraph at lines 155--156
  []
 
 
-LaTeX Warning: Citation `thermotool' on page 4 undefined on input line 161.
-
-
 
 [4]
 
 [5]
-
-LaTeX Warning: Citation `born-opper' on page 6 undefined on input line 182.
-
-
 
 [6]
 Overfull \hbox (3.3863pt too wide) in paragraph at lines 206--208
@@ -844,9 +837,6 @@ Overfull \hbox (7.30515pt too wide) in paragraph at lines 222--222
  []
 
 
-LaTeX Warning: Citation `fullci' on page 9 undefined on input line 227.
-
-
 
 [9]
 Overfull \hbox (9.7641pt too wide) in paragraph at lines 231--231
@@ -855,17 +845,10 @@ Overfull \hbox (9.7641pt too wide) in paragraph at lines 231--231
  []
 
 
-LaTeX Warning: Citation `fullci' on page 10 undefined on input line 236.
-
-
 
 [10]
 
 [11]
-
-LaTeX Warning: Citation `numerov' on page 12 undefined on input line 254.
-
-
 
 [12]
 Overfull \hbox (31.61954pt too wide) in paragraph at lines 276--277
@@ -877,16 +860,7 @@ Overfull \hbox (31.61954pt too wide) in paragraph at lines 276--277
 
 [13]
 
-LaTeX Warning: Citation `malcev_diatom' on page 14 undefined on input line 308.
-
-
-
-
 [14]
-
-LaTeX Warning: Citation `opi' on page 15 undefined on input line 334.
-
-
 
 [15]
 
@@ -895,27 +869,23 @@ LaTeX Warning: Citation `opi' on page 15 undefined on input line 334.
 [17]
 
 [18]
-
-LaTeX Warning: Citation `joint_approx' on page 19 undefined on input line 392.
-
-
-Overfull \hbox (6.49152pt too wide) in paragraph at lines 392--393
+Overfull \hbox (6.49152pt too wide) in paragraph at lines 390--391
 []\T2A/cmr/m/n/12 ќбщий на-бор из уров-ней всех за-гру-жен-ных ѕѕЁ пе-ре-да-ет-
 с€ в мо-дуль Partion Function,
  []
 
+<images/gasthermo_level.png, id=298, 1044.90375pt x 554.07pt>
+File: images/gasthermo_level.png Graphic file (type png)
+<use images/gasthermo_level.png>
+Package pdftex.def Info: images/gasthermo_level.png  used on input line 401.
+(pdftex.def)             Requested size: 377.62642pt x 200.24284pt.
 
 
 [19]
-<images/gasthermo_level.png, id=293, 1044.90375pt x 554.07pt>
-File: images/gasthermo_level.png Graphic file (type png)
-<use images/gasthermo_level.png>
-Package pdftex.def Info: images/gasthermo_level.png  used on input line 403.
-(pdftex.def)             Requested size: 377.62642pt x 200.24284pt.
-<images/gasthermo_thermo.png, id=295, 1056.19594pt x 635.37375pt>
+<images/gasthermo_thermo.png, id=311, 1056.19594pt x 635.37375pt>
 File: images/gasthermo_thermo.png Graphic file (type png)
 <use images/gasthermo_thermo.png>
-Package pdftex.def Info: images/gasthermo_thermo.png  used on input line 409.
+Package pdftex.def Info: images/gasthermo_thermo.png  used on input line 407.
 (pdftex.def)             Requested size: 377.62642pt x 227.16377pt.
 
 
@@ -924,34 +894,34 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.413     \newpage
+l.411     \newpage
                   
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.413     \newpage
+l.411     \newpage
                    <./images/gasthermo_level.png> <./images/gasthermo_thermo.pn
 g>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 414.
+(hyperref)                removing `math shift' on input line 412.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 414.
+(hyperref)                removing `superscript' on input line 412.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 414.
+(hyperref)                removing `math shift' on input line 412.
 
 
 
 [21]
-<images/states_all.png, id=311, 794.97pt x 578.16pt>
+<images/states_all.png, id=327, 794.97pt x 578.16pt>
 File: images/states_all.png Graphic file (type png)
 <use images/states_all.png>
-Package pdftex.def Info: images/states_all.png  used on input line 431.
+Package pdftex.def Info: images/states_all.png  used on input line 429.
 (pdftex.def)             Requested size: 472.03123pt x 343.30812pt.
 
 
@@ -962,7 +932,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.475 
+l.473 
        <./images/states_all.png>]
 
 [24
@@ -970,17 +940,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.477 
+l.475 
       ]
-<images/compare.png, id=339, 867.24pt x 578.16pt>
+<images/compare.png, id=355, 867.24pt x 578.16pt>
 File: images/compare.png Graphic file (type png)
 <use images/compare.png>
-Package pdftex.def Info: images/compare.png  used on input line 486.
+Package pdftex.def Info: images/compare.png  used on input line 484.
 (pdftex.def)             Requested size: 472.03123pt x 314.68954pt.
 
 
 [25]
-Overfull \hbox (16.11606pt too wide) in paragraph at lines 495--519
+Overfull \hbox (16.11606pt too wide) in paragraph at lines 493--517
  [][] 
  []
 
@@ -991,7 +961,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.520 
+l.518 
        <./images/compare.png>]
 
 [27
@@ -999,7 +969,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.528 
+l.526 
       ]
 
 [28
@@ -1007,17 +977,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.550     	
+l.548     	
            ]
-<images/thermo.png, id=384, 939.51pt x 722.7pt>
+<images/thermo.png, id=400, 939.51pt x 722.7pt>
 File: images/thermo.png Graphic file (type png)
 <use images/thermo.png>
-Package pdftex.def Info: images/thermo.png  used on input line 556.
+Package pdftex.def Info: images/thermo.png  used on input line 554.
 (pdftex.def)             Requested size: 472.03123pt x 363.10248pt.
-<images/compare_thermo.png, id=385, 939.51pt x 657.657pt>
+<images/compare_thermo.png, id=401, 939.51pt x 657.657pt>
 File: images/compare_thermo.png Graphic file (type png)
 <use images/compare_thermo.png>
-Package pdftex.def Info: images/compare_thermo.png  used on input line 561.
+Package pdftex.def Info: images/compare_thermo.png  used on input line 559.
 (pdftex.def)             Requested size: 472.03123pt x 330.42326pt.
 
 
@@ -1028,7 +998,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.564 
+l.562 
        <./images/thermo.png>]
 
 [31
@@ -1036,7 +1006,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.606 
+l.604 
        <./images/compare_thermo.png>]
 
 [32
@@ -1044,7 +1014,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.624 
+l.622 
       {d:/Programs/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts
 1.enc}]
 
@@ -1053,14 +1023,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.626     \newpage
+l.624     \newpage
                   ]
 
 [34]
-<images/states_all2.png, id=429, 874.467pt x 604.8999pt>
+<images/states_all2.png, id=445, 874.467pt x 604.8999pt>
 File: images/states_all2.png Graphic file (type png)
 <use images/states_all2.png>
-Package pdftex.def Info: images/states_all2.png  used on input line 651.
+Package pdftex.def Info: images/states_all2.png  used on input line 649.
 (pdftex.def)             Requested size: 472.03123pt x 326.53032pt.
 
 
@@ -1069,12 +1039,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.671 
+l.669 
        <./images/states_all2.png>]
-<images/thermo2.png, id=441, 939.51pt x 722.7pt>
+<images/thermo2.png, id=457, 939.51pt x 722.7pt>
 File: images/thermo2.png Graphic file (type png)
 <use images/thermo2.png>
-Package pdftex.def Info: images/thermo2.png  used on input line 680.
+Package pdftex.def Info: images/thermo2.png  used on input line 678.
 (pdftex.def)             Requested size: 472.03123pt x 363.10248pt.
 
 
@@ -1083,7 +1053,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.683 
+l.681 
       ]
 
 [37
@@ -1091,9 +1061,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.726 
+l.724 
        <./images/thermo2.png>]
-Overfull \hbox (19.4555pt too wide) in paragraph at lines 730--747
+Overfull \hbox (19.4555pt too wide) in paragraph at lines 728--745
  [][] 
  []
 
@@ -1104,7 +1074,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.7}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.748 
+l.746 
       ]
 
 [39
@@ -1112,13 +1082,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.8}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.749     \newpage
+l.747     \newpage
                   ]
 
 [40]
 
 [41] (./main.bbl
-Underfull \hbox (badness 1509) in paragraph at lines 68--76
+Underfull \hbox (badness 1509) in paragraph at lines 54--62
 \T2A/cmr/m/n/12 for <span style="font-variant:small-caps;">ArN</span> and <span
  style="font-
  []
@@ -1127,28 +1097,30 @@ Underfull \hbox (badness 1509) in paragraph at lines 68--76
 
 [42]
 
-[43])
+[43]
+Underfull \hbox (badness 5711) in paragraph at lines 219--226
+\T2A/cmr/m/n/12 взаимодействи€ и термодинамические функции положительно зар€жен
+ного
+ []
+
+)
 
 [44] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 2D3F286C5782FB31FB51C9BA6C20BF8E;6591.
  ) 
 Here is how much of TeX's memory you used:
- 13562 strings out of 473201
- 215943 string characters out of 5715610
- 652722 words of memory out of 5000000
- 36433 multiletter control sequences out of 15000+600000
+ 13572 strings out of 473201
+ 216096 string characters out of 5715610
+ 652984 words of memory out of 5000000
+ 36435 multiletter control sequences out of 15000+600000
  581012 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,20n,79p,2594b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,20n,79p,2594b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 ><d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
@@ -1176,10 +1148,10 @@ e/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/Programs/texlive
 /2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><d:/Programs/texlive/
 2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/Programs/texlive/2
 024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (44 pages, 1242687 bytes).
+Output written on main.pdf (44 pages, 1252636 bytes).
 PDF statistics:
- 643 PDF objects out of 1000 (max. 8388607)
- 520 compressed objects within 6 object streams
- 146 named destinations out of 1000 (max. 500000)
+ 660 PDF objects out of 1000 (max. 8388607)
+ 537 compressed objects within 6 object streams
+ 154 named destinations out of 1000 (max. 500000)
  209 words of extra memory for PDF output out of 10000 (max. 10000000)
 

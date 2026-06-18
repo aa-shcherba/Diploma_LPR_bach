@@ -7,36 +7,22 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{gasthermo}
+\bibitem{Gurvich}
 \selectlanguageifdefined{english}
-\BibEmph{Maltsev,~M~A}. Computation of molecular spectra and thermodynamic
-  functions for diatomic ideal gases using interatomic potentials~/
-  M~A~Maltsev, I~V~Morozov, E~L~Osina. ---
-\newblock Vol. 1787, no.~1. ---
-\newblock P.~012009.
+\BibEmph{Gurvich,~L.V.} Thermodynamic properties of individual substances~/
+  L.V.~Gurvich, I.V.~Veyts, C.B.~Alcock. ---
+\newblock Hemisphere Publishing Corp., 1989. ---
+\newblock Vol.~1. ---
+\newblock Pp.~1--664.
 
-\bibitem{casscf}
+\bibitem{Belov_ivtanthermo}
 \selectlanguageifdefined{english}
-A perturbation‐based super‐{CI} approach for the orbital optimization of a
-  {CASSCF} wave function~/ Christian~Kollmar, Kantharuban~Sivalingam,
-  Benjamin~Helmich‐Paris et~al. ---
-\newblock Vol.~40, no.~14. ---
-\newblock Pp.~1463--1470.
-
-\bibitem{gdanitz_acpf}
-\selectlanguageifdefined{english}
-\BibEmph{Gdanitz,~Robert~J.} The averaged coupled-pair functional ({ACPF}): A
-  size-extensive modification of {MR CI}({SD})~/ Robert~J.~Gdanitz,
-  Reinhart~Ahlrichs~// \BibEmph{Chemical Physics Letters}. ---
-\newblock 1988. ---
-\newblock Vol. 143, no.~5. ---
-\newblock Pp.~413--420.
-
-\bibitem{neese_orca}
-\selectlanguageifdefined{english}
-\BibEmph{Neese,~Frank}. The {ORCA} program system~/ Frank~Neese. ---
-\newblock Vol.~2, no.~1. ---
-\newblock Pp.~73--78.
+The IVTANTHERMO-Online database for thermodynamic properties of individual
+  substances with web interface~/ G~V~Belov, S~A~Dyachkov, P~R~Levashov
+  et~al.~// \BibEmph{Journal of Physics: Conference Series}. ---
+\newblock 2018. ---
+\newblock Vol. 946, no.~1. ---
+\newblock P.~012120.
 
 \bibitem{tuttle}
 \selectlanguageifdefined{english}
@@ -106,6 +92,14 @@ Thermodynamic and transport properties of argon/carbon and helium/carbon
 \newblock Vol.~16, no.~4. ---
 \newblock Pp.~605--634.
 
+\bibitem{gasthermo}
+\selectlanguageifdefined{english}
+\BibEmph{Maltsev,~M~A}. Computation of molecular spectra and thermodynamic
+  functions for diatomic ideal gases using interatomic potentials~/
+  M~A~Maltsev, I~V~Morozov, E~L~Osina. ---
+\newblock Vol. 1787, no.~1. ---
+\newblock P.~012009.
+
 \bibitem{le_roy_betafit}
 \selectlanguageifdefined{english}
 \BibEmph{Le~Roy,~Robert~J.} {betaFIT}: A computer program to fit pointwise
@@ -121,15 +115,7 @@ Thermodynamic and transport properties of argon/carbon and helium/carbon
 \newblock Vol. 186. ---
 \newblock Pp.~167--178.
 
-\bibitem{Gurvich}
-\selectlanguageifdefined{english}
-\BibEmph{Gurvich,~L.V.} Thermodynamic properties of individual substances~/
-  L.V.~Gurvich, I.V.~Veyts, C.B.~Alcock. ---
-\newblock Hemisphere Publishing Corp., 1989. ---
-\newblock Vol.~1. ---
-\newblock Pp.~1--664.
-
-\bibitem{Belov_ivtanthermo}
+\bibitem{thermotool}
 \selectlanguageifdefined{english}
 \BibEmph{Belov,~Gleb~V}. IVTANTHERMO for Windows—database on thermodynamic
   properties and related software~/ Gleb~V~Belov, Vladimir~S~Iorish,
@@ -147,6 +133,77 @@ Thermodynamic and transport properties of argon/carbon and helium/carbon
 \newblock Vol.~46, no.~5. ---
 \newblock Pp.~1059--1063.
 
+\bibitem{Jensen-79}
+\selectlanguageifdefined{english}
+\BibEmph{Jensen,~Frank}. Introduction to computational chemistry~/
+  Frank~Jensen. ---
+\newblock John wiley \& sons, 2017.
+
+\bibitem{Tsirelson-80}
+\selectlanguageifdefined{english}
+\BibEmph{Цирельсон,~Владимир~Григорьевич}.
+  Квантовая химия. Молекулы, молекулярные
+  системы и твердые тела~/
+  Владимир~Григорьевич~Цирельсон. ---
+\newblock Общество с ограниченной
+  ответственностью" Издательство" БИНОМ.
+  Лаборатория~…, 2010.
+
+\bibitem{87}
+\selectlanguageifdefined{english}
+\BibEmph{{David Sherrill},~C.} The Configuration Interaction Method: Advances
+  in Highly Correlated Approaches~/ C.~{David Sherrill}, Henry~F.~Schaefer~//
+  Advances in Quantum Chemistry. ---
+\newblock Elsevier, 1999. ---
+\newblock Vol.~34. ---
+\newblock Pp.~143--269.
+
+\bibitem{89}
+\selectlanguageifdefined{english}
+MC-SCF study of the Diels-Alder reaction between ethylene and butadiene~/
+  Fernando~Bernardi, Andrea~Bottoni, Martin~J~Field et~al.~// \BibEmph{Journal
+  of the American Chemical Society}. ---
+\newblock 1988. ---
+\newblock Vol. 110, no.~10. ---
+\newblock Pp.~3050--3055.
+
+\bibitem{casscf}
+\selectlanguageifdefined{english}
+A perturbation‐based super‐{CI} approach for the orbital optimization of a
+  {CASSCF} wave function~/ Christian~Kollmar, Kantharuban~Sivalingam,
+  Benjamin~Helmich‐Paris et~al. ---
+\newblock Vol.~40, no.~14. ---
+\newblock Pp.~1463--1470.
+
+\bibitem{gdanitz_acpf}
+\selectlanguageifdefined{english}
+\BibEmph{Gdanitz,~Robert~J.} The averaged coupled-pair functional ({ACPF}): A
+  size-extensive modification of {MR CI}({SD})~/ Robert~J.~Gdanitz,
+  Reinhart~Ahlrichs~// \BibEmph{Chemical Physics Letters}. ---
+\newblock 1988. ---
+\newblock Vol. 143, no.~5. ---
+\newblock Pp.~413--420.
+
+\bibitem{numerov}
+\selectlanguageifdefined{english}
+\BibEmph{Cooley,~J.~W.} An improved eigenvalue corrector formula for solving
+  the Schrödinger equation for central fields~/ J.~W.~Cooley. ---
+\newblock Vol.~15, no.~76. ---
+\newblock Pp.~363--374.
+
+\bibitem{gurvich1989thermodynamic}
+\selectlanguageifdefined{english}
+\BibEmph{Gurvich,~Lev~Veniaminovich}. Thermodynamic Properties of Individual
+  Substances~/ Lev~Veniaminovich~Gurvich, I~V~Veyts, C~B~Alcock. ---
+\newblock Hemisphere, 1989. ---
+\newblock Vol.~1.
+
+\bibitem{neese_orca}
+\selectlanguageifdefined{english}
+\BibEmph{Neese,~Frank}. The {ORCA} program system~/ Frank~Neese. ---
+\newblock Vol.~2, no.~1. ---
+\newblock Pp.~73--78.
+
 \bibitem{helgaker_cbs}
 \selectlanguageifdefined{english}
 Basis-set convergence of correlated calculations on water~/ Trygve~Helgaker,
@@ -155,6 +212,17 @@ Basis-set convergence of correlated calculations on water~/ Trygve~Helgaker,
 \newblock 1997. ---
 \newblock Vol. 106, no.~23. ---
 \newblock Pp.~9639--9646.
+
+\bibitem{joint_approx}
+\selectlanguageifdefined{english}
+\BibEmph{М. А.~Мальцев~А. В.~Кравченко,~А.
+  А.~Щерба}. Потенциальные кривые
+  межатомного взаимодействия и
+  термодинамические функции положительно
+  заряженного фторида аргона~/ А. А.~Щерба~М.
+  А.~Мальцев, А. В.~Кравченко. ---
+\newblock Vol.~63, no.~6. ---
+\newblock P.~699.
 
 \bibitem{froudakis}
 \selectlanguageifdefined{english}

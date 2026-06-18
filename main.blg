@@ -3,66 +3,60 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: gost71u.bst
 Database file #1: article.bib
-Warning--I didn't find a database entry for "hf"
-Warning--I didn't find a database entry for "full_ci"
-Warning--I didn't find a database entry for "thermotool"
-Warning--I didn't find a database entry for "born-opper"
-Warning--I didn't find a database entry for "numerov"
-Warning--I didn't find a database entry for "malcev_diatom"
-Warning--I didn't find a database entry for "opi"
-Warning--I didn't find a database entry for "joint_approx"
-Warning--empty journal in gasthermo
-Warning--empty journal in casscf
-Warning--empty journal in neese_orca
 Warning--empty journal in tuttle
 Warning--empty journal in hillier
 Warning--empty journal in Maltsev_ArN_en
 Warning--empty journal in Maltsev_gasthermo
 Warning--empty journal in pousse_thermodynamic_1996
+Warning--empty journal in gasthermo
 Warning--empty journal in le_roy_betafit
 Warning--empty journal in le_roy_level
+Warning--empty journal in casscf
+Warning--empty journal in numerov
+Warning--empty journal in neese_orca
+Warning--empty journal in joint_approx
 Warning--empty journal in froudakis
 Warning--empty journal in Sohlberg
 Warning--empty journal in ormas
-You've used 21 entries,
+You've used 29 entries,
             2674 wiz_defined-function locations,
-            775 strings with 8971 characters,
-and the built_in function-call counts, 9604 in all, are:
-= -- 1239
-> -- 244
-< -- 59
-+ -- 82
-- -- 61
-* -- 565
-:= -- 1004
-add.period$ -- 84
-call.type$ -- 21
+            814 strings with 10646 characters,
+and the built_in function-call counts, 12484 in all, are:
+= -- 1616
+> -- 312
+< -- 75
++ -- 107
+- -- 78
+* -- 708
+:= -- 1305
+add.period$ -- 115
+call.type$ -- 29
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 34
-duplicate$ -- 481
-empty$ -- 811
-format.name$ -- 74
-if$ -- 2482
+cite$ -- 44
+duplicate$ -- 635
+empty$ -- 1096
+format.name$ -- 97
+if$ -- 3259
 int.to.chr$ -- 0
-int.to.str$ -- 21
+int.to.str$ -- 29
 missing$ -- 0
-newline$ -- 144
-num.names$ -- 42
-pop$ -- 134
+newline$ -- 193
+num.names$ -- 58
+pop$ -- 185
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 417
+skip$ -- 527
 stack$ -- 0
-substring$ -- 666
-swap$ -- 397
-text.length$ -- 38
+substring$ -- 784
+swap$ -- 514
+text.length$ -- 46
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 13
-while$ -- 80
-width$ -- 23
-write$ -- 387
-(There were 21 warnings)
+warning$ -- 15
+while$ -- 98
+width$ -- 31
+write$ -- 527
+(There were 15 warnings)
