@@ -15,6 +15,14 @@
 \newblock Vol. 1787, no.~1. ---
 \newblock P.~012009.
 
+\bibitem{casscf}
+\selectlanguageifdefined{english}
+A perturbation‐based super‐{CI} approach for the orbital optimization of a
+  {CASSCF} wave function~/ Christian~Kollmar, Kantharuban~Sivalingam,
+  Benjamin~Helmich‐Paris et~al. ---
+\newblock Vol.~40, no.~14. ---
+\newblock Pp.~1463--1470.
+
 \bibitem{gdanitz_acpf}
 \selectlanguageifdefined{english}
 \BibEmph{Gdanitz,~Robert~J.} The averaged coupled-pair functional ({ACPF}): A

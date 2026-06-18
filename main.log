@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  17 JUN 2026 21:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.12)  18 JUN 2026 14:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -792,11 +792,10 @@ Package hyperref Info: Link coloring OFF on input line 115.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/MIPT_logo.jpg, id=88, 803.0pt x 401.5pt>
-File: images/MIPT_logo.jpg Graphic file (type jpg)
-<use images/MIPT_logo.jpg>
-Package pdftex.def Info: images/MIPT_logo.jpg  used on input line 161.
-(pdftex.def)             Requested size: 100.0pt x 49.99745pt.
+(./main.toc)
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
 
 
 [1
@@ -806,11 +805,16 @@ Non-PDF special ignored!
 {d:/Programs/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{d:/Prog
 rams/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
 
-[2 <./images/MIPT_logo.jpg>]
+[2]
 
-[3] (./main.toc)
-\tf@toc=\write6
-\openout6 = `main.toc'.
+[3]
+Overfull \hbox (21.1865pt too wide) in paragraph at lines 155--156
+\T2A/cmr/m/n/12 Среди пред-ше-ству-ю-щих тео-ре-ти-че-ских ис-сле-до-ва-ний, по
+-свя-щен-ных квантово-механическим
+ []
+
+
+LaTeX Warning: Citation `thermotool' on page 4 undefined on input line 161.
 
 
 
@@ -818,359 +822,314 @@ rams/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
 
 [5]
 
+LaTeX Warning: Citation `born-opper' on page 6 undefined on input line 182.
+
+
+
 [6]
-
-LaTeX Warning: Citation `casscf' on page 7 undefined on input line 228.
-
-
-LaTeX Warning: Citation `hf' on page 7 undefined on input line 228.
-
-
-LaTeX Warning: Citation `full_ci' on page 7 undefined on input line 228.
-
-
-Overfull \hbox (10.9143pt too wide) in paragraph at lines 228--229
-\T2A/cmr/m/n/12 Обсуждение квантово-механические ме-то-ды не мо-жет быть пол-ны
-м. Ос-нов-ны-ми квантово-
- []
-
-
-Overfull \hbox (38.81131pt too wide) in paragraph at lines 230--231
-[]\T2A/cmr/m/n/12 Среди пред-ше-ству-ю-щих тео-ре-ти-че-ских ис-сле-до-ва-ний, 
-по-свя-щен-ных квантово-механическим
+Overfull \hbox (3.3863pt too wide) in paragraph at lines 206--208
+[]\T2A/cmr/m/n/12 В на-ча-ле вво-дит-ся на-бор функ-ций мо-ле-ку-ляр-ных спин-о
+рбиталей (МО) $\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 ^^^[]\OT1/cmr/m/n/12 ([]\OML/
+cmm/m/it/12 ; ^^[[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 g[]$
  []
 
 
 
 [7]
 
-LaTeX Warning: Citation `thermotool' on page 8 undefined on input line 236.
-
-
-
 [8]
-
-LaTeX Warning: Citation `born-opper' on page 9 undefined on input line 255.
-
-
-
-[9]
-Overfull \hbox (6.64938pt too wide) in paragraph at lines 276--277
-[]\T2A/cmr/m/n/12 В на-ча-ле вво-дит-ся на-бор функ-ций мо-ле-ку-ляр-ных спин-о
-рбиталей (МО) $\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 ^^^[]\OT1/cmr/m/n/12 ([]\OML/
-cmm/m/it/12 ; ^^[[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 g[]$\T2A/cmr/m/n/12 ,
- []
-
-
-
-[10]
-Overfull \hbox (7.30515pt too wide) in paragraph at lines 291--291
+Overfull \hbox (7.30515pt too wide) in paragraph at lines 222--222
 []\T2A/cmr/bx/n/14.4 Метод са-мо-со-гла-со-ван-но-го по-ля в пол-ном ак-тив-ном
  про-стран-
  []
 
 
+LaTeX Warning: Citation `fullci' on page 9 undefined on input line 227.
 
-[11]
 
-[12]
 
-[13]
-Overfull \hbox (9.7641pt too wide) in paragraph at lines 314--314
+[9]
+Overfull \hbox (9.7641pt too wide) in paragraph at lines 231--231
 []\T2A/cmr/bx/n/14.4 Многорференсный ме-тод кон-фи-гу-ра-ци-он-но-го вза-и-мо-д
 ей-ствия 
  []
 
 
-
-[14]
-
-[15]
-
-LaTeX Warning: Citation `numerov' on page 16 undefined on input line 335.
-
-
-Overfull \hbox (22.3273pt too wide) in paragraph at lines 335--336
-\T2A/cmr/m/n/12 механическом уровне по-тен-ци-аль-ных кри-вых к пол-но-му на-бо
--ру вращательно-колебательных
- []
+LaTeX Warning: Citation `fullci' on page 10 undefined on input line 236.
 
 
 
-[16]
-Overfull \hbox (31.61954pt too wide) in paragraph at lines 357--358
+[10]
+
+[11]
+
+LaTeX Warning: Citation `numerov' on page 12 undefined on input line 254.
+
+
+
+[12]
+Overfull \hbox (31.61954pt too wide) in paragraph at lines 276--277
 []\T2A/cmr/m/n/12 Результатом ра-бо-ты ал-го-рит-ма для неко-то-рой за-дан-ной 
 ППЭ яв-ля-ет-ся на-бор вращательно-
  []
 
 
-LaTeX Warning: Reference `eq:funcs_trans' on page 17 undefined on input line 37
-0.
+
+[13]
+
+LaTeX Warning: Citation `malcev_diatom' on page 14 undefined on input line 308.
 
 
+
+
+[14]
+
+LaTeX Warning: Citation `opi' on page 15 undefined on input line 334.
+
+
+
+[15]
+
+[16]
 
 [17]
 
-LaTeX Warning: Citation `malcev_diatom' on page 18 undefined on input line 391.
-
-
-
-Overfull \hbox (11.23267pt too wide) in paragraph at lines 391--394
-[]\T2A/cmr/m/n/12 Нахождение тем-пе-ра-тур-ной за-ви-си-мо-сти внут-рен-них ча-
-стей тер-мо-ди-на-ми-че-ских функ-
- []
-
-
-
 [18]
 
-LaTeX Warning: Citation `opi' on page 19 undefined on input line 417.
+LaTeX Warning: Citation `joint_approx' on page 19 undefined on input line 392.
 
 
-
-[19]
-Overfull \hbox (1.28027pt too wide) in paragraph at lines 439--440
-[]\T2A/cmr/m/n/12 Порядковый но-мер элек-трон-но-го со-сто-я-ния кон-крет-ной м
-уль-ти-плет-но-сти и про-стран-
- []
-
-
-
-[20]
-
-[21]
-
-LaTeX Warning: Citation `joint_approx' on page 22 undefined on input line 461.
-
-
-Overfull \hbox (6.49152pt too wide) in paragraph at lines 461--462
+Overfull \hbox (6.49152pt too wide) in paragraph at lines 392--393
 []\T2A/cmr/m/n/12 Общий на-бор из уров-ней всех за-гру-жен-ных ППЭ пе-ре-да-ет-
 ся в мо-дуль Partion Function,
  []
 
-<images/gasthermo_level.png, id=308, 1044.90375pt x 554.07pt>
+
+
+[19]
+<images/gasthermo_level.png, id=293, 1044.90375pt x 554.07pt>
 File: images/gasthermo_level.png Graphic file (type png)
 <use images/gasthermo_level.png>
-Package pdftex.def Info: images/gasthermo_level.png  used on input line 472.
+Package pdftex.def Info: images/gasthermo_level.png  used on input line 403.
 (pdftex.def)             Requested size: 377.62642pt x 200.24284pt.
-
-
-[22]
-<images/gasthermo_thermo.png, id=317, 1056.19594pt x 635.37375pt>
+<images/gasthermo_thermo.png, id=295, 1056.19594pt x 635.37375pt>
 File: images/gasthermo_thermo.png Graphic file (type png)
 <use images/gasthermo_thermo.png>
-Package pdftex.def Info: images/gasthermo_thermo.png  used on input line 478.
+Package pdftex.def Info: images/gasthermo_thermo.png  used on input line 409.
 (pdftex.def)             Requested size: 377.62642pt x 227.16377pt.
 
 
-[23
+[20
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.482     \newpage
+l.413     \newpage
                   
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.482     \newpage
+l.413     \newpage
                    <./images/gasthermo_level.png> <./images/gasthermo_thermo.pn
 g>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 483.
+(hyperref)                removing `math shift' on input line 414.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 483.
+(hyperref)                removing `superscript' on input line 414.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 483.
+(hyperref)                removing `math shift' on input line 414.
 
 
 
-[24]
-<images/states_all.png, id=333, 794.97pt x 578.16pt>
+[21]
+<images/states_all.png, id=311, 794.97pt x 578.16pt>
 File: images/states_all.png Graphic file (type png)
 <use images/states_all.png>
-Package pdftex.def Info: images/states_all.png  used on input line 500.
+Package pdftex.def Info: images/states_all.png  used on input line 431.
 (pdftex.def)             Requested size: 472.03123pt x 343.30812pt.
 
 
-[25]
+[22]
 
-[26
+[23
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.544 
+l.475 
        <./images/states_all.png>]
 
-[27
+[24
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.546 
+l.477 
       ]
-<images/compare.png, id=361, 867.24pt x 578.16pt>
+<images/compare.png, id=339, 867.24pt x 578.16pt>
 File: images/compare.png Graphic file (type png)
 <use images/compare.png>
-Package pdftex.def Info: images/compare.png  used on input line 555.
+Package pdftex.def Info: images/compare.png  used on input line 486.
 (pdftex.def)             Requested size: 472.03123pt x 314.68954pt.
 
 
-[28]
-Overfull \hbox (16.11606pt too wide) in paragraph at lines 563--587
+[25]
+Overfull \hbox (16.11606pt too wide) in paragraph at lines 495--519
  [][] 
  []
 
 
 
-[29
+[26
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.590 
+l.520 
        <./images/compare.png>]
 
-[30
+[27
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.598 
+l.528 
       ]
 
-[31
+[28
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.620     	
+l.550     	
            ]
-<images/thermo.png, id=406, 939.51pt x 722.7pt>
+<images/thermo.png, id=384, 939.51pt x 722.7pt>
 File: images/thermo.png Graphic file (type png)
 <use images/thermo.png>
-Package pdftex.def Info: images/thermo.png  used on input line 626.
+Package pdftex.def Info: images/thermo.png  used on input line 556.
 (pdftex.def)             Requested size: 472.03123pt x 363.10248pt.
-<images/compare_thermo.png, id=407, 939.51pt x 657.657pt>
+<images/compare_thermo.png, id=385, 939.51pt x 657.657pt>
 File: images/compare_thermo.png Graphic file (type png)
 <use images/compare_thermo.png>
-Package pdftex.def Info: images/compare_thermo.png  used on input line 631.
+Package pdftex.def Info: images/compare_thermo.png  used on input line 561.
 (pdftex.def)             Requested size: 472.03123pt x 330.42326pt.
 
 
-[32]
+[29]
 
-[33
+[30
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.634 
+l.564 
        <./images/thermo.png>]
 
-[34
+[31
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.676 
+l.606 
        <./images/compare_thermo.png>]
 
-[35{d:/Programs/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
-nc}
+[32
 pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.694 
-      ]
+l.624 
+      {d:/Programs/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts
+1.enc}]
 
-[36
+[33
 pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.696     \newpage
+l.626     \newpage
                   ]
 
-[37]
-<images/states_all2.png, id=451, 874.467pt x 604.8999pt>
+[34]
+<images/states_all2.png, id=429, 874.467pt x 604.8999pt>
 File: images/states_all2.png Graphic file (type png)
 <use images/states_all2.png>
-Package pdftex.def Info: images/states_all2.png  used on input line 721.
+Package pdftex.def Info: images/states_all2.png  used on input line 651.
 (pdftex.def)             Requested size: 472.03123pt x 326.53032pt.
 
 
-[38
+[35
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.741 
+l.671 
        <./images/states_all2.png>]
-File: images/thermo.png Graphic file (type png)
-<use images/thermo.png>
-Package pdftex.def Info: images/thermo.png  used on input line 750.
+<images/thermo2.png, id=441, 939.51pt x 722.7pt>
+File: images/thermo2.png Graphic file (type png)
+<use images/thermo2.png>
+Package pdftex.def Info: images/thermo2.png  used on input line 680.
 (pdftex.def)             Requested size: 472.03123pt x 363.10248pt.
 
 
-[39
+[36
 pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.753 
+l.683 
       ]
 
-[40
+[37
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.796 
-      ]
-Overfull \hbox (19.4555pt too wide) in paragraph at lines 799--816
+l.726 
+       <./images/thermo2.png>]
+Overfull \hbox (19.4555pt too wide) in paragraph at lines 730--747
  [][] 
  []
 
 
 
-[41
+[38
 pdfTeX warning (ext4): destination with the same identifier (name{table.7}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.818 
+l.748 
       ]
 
-[42
+[39
 pdfTeX warning (ext4): destination with the same identifier (name{table.8}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.819     \newpage
+l.749     \newpage
                   ]
 
-[43]
+[40]
 
-[44] (./main.bbl
-Underfull \hbox (badness 1509) in paragraph at lines 60--68
+[41] (./main.bbl
+Underfull \hbox (badness 1509) in paragraph at lines 68--76
 \T2A/cmr/m/n/12 for <span style="font-variant:small-caps;">ArN</span> and <span
  style="font-
  []
 
 
 
-[45])
+[42]
 
-[46] (./main.aux)
+[43])
+
+[44] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1183,13 +1142,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 2D3F286C5782FB31FB51C9BA6C20BF8E;6591.
  ) 
 Here is how much of TeX's memory you used:
- 13589 strings out of 473201
- 216337 string characters out of 5715610
- 652707 words of memory out of 5000000
- 36450 multiletter control sequences out of 15000+600000
- 586498 words of font info for 96 fonts, out of 8000000 for 9000
+ 13562 strings out of 473201
+ 215943 string characters out of 5715610
+ 652722 words of memory out of 5000000
+ 36433 multiletter control sequences out of 15000+600000
+ 581012 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,21n,79p,2340b,587s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,20n,79p,2594b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 ><d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
@@ -1198,18 +1157,16 @@ b><d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 ><d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb>
 <d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
 d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d
-:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><
-d:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d
-:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:
-/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/P
-rograms/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/Pro
-grams/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/Progr
-ams/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Progr
-ams/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/Progra
-ms/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/Program
-s/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbi0800.pfb><d:/Programs
-/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb><d:/Programs/
-texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><d:/Programs/t
+:/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:
+/Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/
+Programs/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/Pr
+ograms/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/Prog
+rams/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/Progra
+ms/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/Progra
+ms/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/Program
+s/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/Programs
+/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbi0800.pfb><d:/Programs/
+texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb><d:/Programs/t
 exlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/Programs/te
 xlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/Programs/tex
 live/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/Programs/texl
@@ -1218,14 +1175,11 @@ ve/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><d:/Programs/texliv
 e/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/Programs/texlive
 /2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><d:/Programs/texlive/
 2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/Programs/texlive/2
-024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/Programs/texlive/20
-24/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><d:/Programs/texlive/202
-4/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><d:/Programs/texlive/2024
-/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on main.pdf (46 pages, 1274791 bytes).
+024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (44 pages, 1242687 bytes).
 PDF statistics:
- 678 PDF objects out of 1000 (max. 8388607)
- 544 compressed objects within 6 object streams
- 147 named destinations out of 1000 (max. 500000)
+ 643 PDF objects out of 1000 (max. 8388607)
+ 520 compressed objects within 6 object streams
+ 146 named destinations out of 1000 (max. 500000)
  209 words of extra memory for PDF output out of 10000 (max. 10000000)
 
